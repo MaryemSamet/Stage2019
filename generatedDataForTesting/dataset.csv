@@ -1,0 +1,697 @@
+,itemId,color,guarantee,memory,name,price,ram,site,soup
+0,bd4f3f32e70dae9b3dc17d3d7277d6b34cdde5fe,bleu,garantie1an,8go, z7 ,259.0,1go,jumia,1go 8go bleu
+1,c0f0a1d70e3f5f805970366f5bf0d29d361fa47c,noir,garantie1an,4go, v5 nano ,148.0,512mo,jumia,512mo 4go noir
+2,95c809d493d3657ef06b115fe1e33d3ae1f1df52,gris,garantie1an,8go, v5 ,187.0,1go,jumia,1go 8go gris
+3,3494134f92986843aa5bae14cce7bfa0678c954a,bleu,garantie1an,8go, 2.1 ,359.0,1go,jumia,1go 8go bleu
+4,b93a0d88ea7b183e7b38e99c26a1bc5ae8fa85f7,lavender,garantie1an,8go, j2 core ,309.0,1go,jumia,1go 8go lavender
+5,b5cdebe005bc9def7f5f49d0bfd198c3e92be833,,garantie1an,16go, m11  grayblue ,439.0,2go,jumia,2go 16go 
+6,a17d2f3ebf634f7e1b5872c5121b11180d92ecac,bleu,garantie1an,64go, a7 ,645.0,3go,jumia,3go 64go bleu
+7,d1268a8de75bb2b4e208d99df0e59221bdf332eb,brunambré,garantie1an,32go, y6 prime 2019 ,449.0,2go,jumia,2go 32go brunambré
+8,81bff5bb864f08a629f37eae4247eb535115d708,rouge,garantie1an,32go, galaxy j6 plus ,599.0,ram3go,jumia,ram3go 32go rouge
+9,30808fc7dfb59d0a346e991c7d000a8d27f891bc,black,garantie1an,8go, v4+ ,219.0,1go,jumia,1go 8go black
+10,0d36c4053a4a7329353f4cc3bf5268f7ce0e6f49,noir,garantie1an,16go, 3.1 ,489.0,2go,jumia,2go 16go noir
+11,55f4de7ab2d4a810758d027167156d4278e26d94,bleu,garantie1an,128go, p30 lite ,899.0,4go,jumia,4go 128go bleu
+12,53023ac767fade77031f2905747111c1b7d7af7b,noir,garantie1an,64go, galaxy a30 ,829.0,4gb,jumia,4gb 64go noir
+13,b0f2acc17dcfcf0d6a3cd073afb1557a8292394a,noir,garantie1an,16go, y8 ,430.0,3go,jumia,3go 16go noir
+14,da6a9c144717891fb32c42c506865f0d6205c6de,gold,garantie1an,4go, z6 mini ,125.0,512mo,jumia,512mo 4go gold
+15,e47dc71dea7c93570ada914b432e28887da44aef,noir,garantie1an,128go, galaxy a7 2018 ,1350.0,4go,jumia,4go 128go noir
+16,69499d2c1b148ede484f31179bf9c41444d06ab0,noir,garantie1an,128go, galaxy a70 ,1559.0,6go,jumia,6go 128go noir
+17,90d50e1f328bce0598effb3f9d23bbef8e86e198,noir,garantie1an,4go, v5 nano ,138.0,512mo,jumia,512mo 4go noir
+18,097b0d33d01944076534bdf17911e1e03999bf78,gold,garantie1an,16go, apex ,245.0,1go,jumia,1go 16go gold
+19,ffa6c7cfea61b43983d29f9162b07ec739aaf8f4,rouge,garantie1an,16go, apex ,245.0,1go,jumia,1go 16go rouge
+20,0a3973debfab4c97c591a21b9eeef7e40673cf6c,rouge,garantie1an,32go, galaxy a10 ,479.0,2go,jumia,2go 32go rouge
+21,c7222a379c71a881d985e7d4bcdc9ffd473e32ac,brunambré,garantie1an,32go, y6 prime 2019 ,509.0,2go,jumia,2go 32go brunambré
+22,05c2d92c6477faa8e82113e0deeb257c82e1869f,rouge,garantie1an,32go, hot 7 pro ,529.0,3go,jumia,3go 32go rouge
+23,b46c4efb5c8811477c240e607f21e6317f43fcc4,brown,garantie1an,32go, hot 7 pro ,535.0,3go,jumia,3go 32go brown
+24,361db983f37cfef5fb3c75ea184e3e6949429f0f,bleu,garantie1an,32go, y6 prime 2019 ,549.0,2go,jumia,2go 32go bleu
+25,60d9f2cb1c7f87787656849b7129bc46fe47e764,noir,garantie1an,32go, galaxy j6 plus ,559.0,3go,jumia,3go 32go noir
+26,75cfbc0127dd9ff7bdb700664e8841f72e71fada,bleu,garantie1an,16go, 5 ,579.0,2go,jumia,2go 16go bleu
+27,4b95fb4b31dd5f5c137295116c1fee61bef64897,bleu,garantie1an+cartesim+55dinarsdecommunication,32go, galaxy a20 ,529.0,3go,jumia,3go 32go bleu
+28,a808e30e012fa4bff42533e12abf594d9018258d,bleu,garantie1an,32go, y5 2019 ,379.0,2go,jumia,2go 32go bleu
+29,a31b8911730108b97e849c2aab3a33f07babf168,vert,garantie1an+cartemémoire16goclasse10,64go, f11 ,889.0,6go,jumia,6go 64go vert
+30,45cf71b09ae62852f6a15b9c0f76dd6bc5e67f2e,gold,garantie1an,8go, v4 ,189.0,1go,jumia,1go 8go gold
+31,de909835b31d34b42772a9c4522ba9dc05bd0f86,brown,garantie1an,32go, y5 2019 ,399.0,2go,jumia,2go 32go brown
+32,e7458176676fa13be5bb820ddcb6b6b15e1ff540,noir,garantie1an,16go, y5 prime 2018 ,349.0,2go,jumia,2go 16go noir
+33,6badb71ffa48a93bfd922432aa4884fb555c5681,gold,garantie1an,3go, a7 ,645.0,64go,jumia,64go 3go gold
+34,f097d91b0e3b4387d63b3d16d062727cc8936d42,bleu,garantie1an,128go, nova 3i ,769.0,4go,jumia,4go 128go bleu
+35,33a51db3359a99acb1d22b5e6ffaf2dbd50cc070,noir,garantie1an,64go, galaxy a30 ,669.0,4go,jumia,4go 64go noir
+36,dc433f8d7ce9638435c38ccfbc514faabc007ce0,noir,garantie1an,128go, galaxy a50  ,825.0,4go,jumia,4go 128go noir
+37,a26370e2260abba7ea49667f1ff0c78c762ac199,blanc,garantie1an,128go, galaxy a50  ,825.0,4go,jumia,4go 128go blanc
+38,afd18e44f5561c160ead8f1e855ccaf8400a58e9,irisviolet,garantie1an,128go, nova 3i ,769.0,4go,jumia,4go 128go irisviolet
+39,7287deeb471efbd4ab51e1beb138b8c272c0eb5f,gold,garantie1an,4go, iphone xs max ,3929.0,64go,jumia,64go 4go gold
+40,78bbde8759e46f6e23d8e7ba18932d0abf016ca9,gold,garantie1an,8go, v553 ,259.0,1go,jumia,1go 8go gold
+41,f57646e64c202aa9e98b22a4042535cac5f7ba97,noir,garantie1an,32go, galaxy j6 plus ,619.0,3go,jumia,3go 32go noir
+42,d2aac6a64a1530c0988323f6876a8bbc9d27d141,black,garantie1an,64go, y9 2019 ,679.0,4go,jumia,4go 64go black
+43,978e08ca7255fbcccad5f66d1a2d6e6ae69f2c7b,rouge,garantie1an,32go, galaxy a10 ,479.0,2go,jumia,2go 32go rouge
+44,fe270a95c993e083f86b757493e001a346cc6f2c,noir,garantie1an,32go, a5s ,539.0,3go,jumia,3go 32go noir
+45,00ccf468749cc1da815758cca41a8c97d9979c2e,noir,garantie1an,16go, apex ,245.0,1go,jumia,1go 16go noir
+46,297ac076d45c08935457aa46f3858ad4878ff08b,noir,garantie1an,32go, a5s ,473.0,2go,jumia,2go 32go noir
+47,eb88a220f57d5aee7048ec02c656b766c0c655b8,brunambré,garantie1an,32go, y6 prime 2019 ,499.0,2go,jumia,2go 32go brunambré
+48,a1a99763fd3f50a47e56e7ac2d229697d79fb11c,bruneambré,garantie1antn,32go, y6 prime 2019 ,489.0,2go,jumia,2go 32go bruneambré
+49,1ff9da07dddf04ce8cf06615a9a7a360b5f7d9db,rose,garantie1an,16go, apex ,245.0,1go,jumia,1go 16go rose
+50,2387ad34a2179326ec43755cf8e77c29f0a65ba5,noir,garantie1an,32go, galaxy a20 ,529.0,2go,jumia,2go 32go noir
+51,be7b505ec0aaeba750e7b06d6dd3ee5cd6d40297,bleu,garantie1an,32go, y6 prime 2019 ,509.0,2go,jumia,2go 32go bleu
+52,a9066d1311fb2c441ac5728526aa9252cd8415b6,noir,garantie1an,32go, galaxy j4+ ,599.0,2go,jumia,2go 32go noir
+53,d6044e25a9bad8ed42cddc6a3d00c3a125634142,spacegray,garantie1an,64go, iphone x ,2879.0,3go,jumia,3go 64go spacegray
+54,73c402e7bd9662568aec1426c30cf08050fe2577,blue,garantie1an,32go, y7 prime 2019 ,589.0,3go,jumia,3go 32go blue
+55,f9190f52390e428e01598c67a82288d9a624516c,noir,garantie1an,32go, y7 prime 2019 ,589.0,3go,jumia,3go 32go noir
+56,41ecf2bf14bd24e3b6e8ef90601df6678d91df04,gold,garantie1an,32gb, galaxy j4 plus ,649.0,ram2gb,jumia,ram2gb 32gb gold
+57,03c70b0f7ee139622b5825fd25a72fbacffe0e26,bleu,garantie1an+abonnementoryxoiptv&baguetteselfie,32go, y7 prime 2019 ,669.0,3go,jumia,3go 32go bleu
+58,a17e441652cfa8b1b472fcd944c9d34eaf3ddb89,rouge,garantie1an+abonnementoryxoiptv&baguetteselfie,32go, y7 prime 2019 ,669.0,3go,jumia,3go 32go rouge
+59,e18b04a41eb0dce9af9847fe057a4ad59d2e0dcb,rouge,garantie1an,32go, y7 prime 2019 ,669.0,3go,jumia,3go 32go rouge
+60,8e007a3fa9bf3ab629d6dcaa2b43c60105d65fb0,noir,garantie1an+abonnementoryxoiptv&baguetteselfie,32go, y7 prime 2019 ,669.0,3go,jumia,3go 32go noir
+61,be5c88ee64483c0f7e644573ffde7202b1b792a5,bleusaphir,garantie1an,64go, y9 2019 ,679.0,4go,jumia,4go 64go bleusaphir
+62,b4fee7bba850db00b417a148a245dea6f0f5f2a0,aurorapurple,garantie1an,64go, huawei y9 2019 ,659.0,4go,jumia,4go 64go aurorapurple
+63,191af204954bd4115db0775410fb1b980d8027fa,gold,garantie1an,16go, power 2 gold ,269.0,2go,jumia,2go 16go gold
+64,bde049851bc4a7054ca6993ef4a36a2bd414857b,bleu,garantie1an,16go, y5 lite 2018 ,329.0,1go,jumia,1go 16go bleu
+65,d1fc5055fbb8a20d5978d4bef4877bcd84f79082,noir,garantie1an,4go, z6 mini 3g ,139.0,512mo,jumia,512mo 4go noir
+66,7465f5330aaee1d78360c683c3b80d3556083544,gold,garantie1an,8go, vyper ,209.0,1go,jumia,1go 8go gold
+67,2a5219fd64a866337b797a78058a3936d99574e2,gold,garantie1an,4go, z6 mini ,125.0,512mo,jumia,512mo 4go gold
+68,2a1b321fd38490ccfee1262a28119ef45792f22b,4g,gold,8go, galaxy grand prime plus ,369.0,1.5go,jumia,1.5go 8go 4g
+69,d1ce975463a990c1483e440fc06299d4cb543e07,spacegray,garantie1an,64go, iphone xs max ,3499.0,4go,jumia,4go 64go spacegray
+70,44d901587995e34cdf2f551bff912a1f96c28cd7,bleu,garantie1an,64go, galaxy a30 ,675.0,4go,jumia,4go 64go bleu
+71,62ddd1e3d4730eacb155b60cc19b237c5b7110ff,spacegrey,garantie1an,256go, iphone 7 plus ,2799.0,3go,jumia,3go 256go spacegrey
+72,78c84bd65beeaecd060145d88e1e1ed806637657,gold,garantie1an,512mo, v5 nano ,128.0,4go,jumia,4go 512mo gold
+73,1017368d3824748fb6b825cff303730711b99b7d,breathingcrystal,garantie1an,128go, p30 pro ,2899.0,8go,jumia,8go 128go breathingcrystal
+74,e0b8d20ae2472141ca19c757c35517eca7e301c3,silver,garantie1an,512go, iphone xs max ,4399.0,4go,jumia,4go 512go silver
+75,d6ae0b642dae8541bf2f64bddc570d6e771721ee,silver,garantie1an,64go, iphone 8 plus ,2499.0,3go,jumia,3go 64go silver
+76,e579b98cdb97a4327729c3584e9bbaf510888900,silver,garantie1an,32go, plume l3 smart ,575.0,3go,jumia,3go 32go silver
+77,e52c83299961c25e7f75e87c8734cad8d7fe1bbb,rouge,garantie1an,32go, galaxy a20 ,599.0,3go,jumia,3go 32go rouge
+78,26d6209fdaf10f17246790e92d8478b60d8554e9,noir,garantie1an,8go, v4 plus  ,229.0,1go,jumia,1go 8go noir
+79,31bf06f848344c63bf413e93beafba751d4856b0,violet,garantie1an,16go, y8 ,430.0,3go,jumia,3go 16go violet
+80,1d4be6ab0299af5e30d5da7839d8071dedc5feb5,bleu,garantie1an,8go, y5 lite (2018) ,358.0,1go,jumia,1go 8go bleu
+81,c91a4027c44975560501d0cf9b2c0126ba90609d,noir,garantie1an,8go, l ement 505 ,199.0,1go,jumia,1go 8go noir
+82,6a3ca166abd57ac40b872fb12ceae923a3210e93,bruneambré,garantie1an,32go, y6 prime 2019 ,490.0,2go,jumia,2go 32go bruneambré
+83,4418aa5846886036816fc0a569c0409d370173a3,rouge,garantie1an,32go, y7 prime 2019 ,589.0,3go,jumia,3go 32go rouge
+84,7a0c71fae5ece4ecca1c46fecd440b536b7bf373,rouge,garantie1an,64go, f9 ,769.0,4go,jumia,4go 64go rouge
+85,18243b6e2b23fa982bd59b2a9d80d0506fda27ec,black,black,16go, plume l 2 pro ,422.0,ram2go,jumia,ram2go 16go black
+86,f78b48dc3c1d51d73cb5dba4ebebe2f14c888307,noir,garantie1an,32g, plume l3 ,489.0,3go,jumia,3go 32g noir
+87,f1ce70ad63e400f7b93139c87db9fe01cb2a59f1,blanc,garantie1an,128go, galaxy a50 ,899.0,4go,jumia,4go 128go blanc
+88,e487aec1f7007fd2dccc6ee478d9121ab86b00bd,noir,garantie1an,16go, power2 ,279.0,2go,jumia,2go 16go noir
+89,c8d5ad9d2e0d088e715dd9bc7add5cbd1858b73c,silver,garantie1an,64go, iphone x ,3599.0,3go,jumia,3go 64go silver
+90,b66b6cb75c2e44da2e123da333dc429cfab2c45d,gold,garantie1an,32go, galaxy j4 plus ,695.0,2go,jumia,2go 32go gold
+91,9e779be66b795ccf5d2c274554e0519bc0561e95,irispurple,garantie1an,128go, nova 3i ,795.0,ram4go,jumia,ram4go 128go irispurple
+92,9c31a703ce908bfc79bfbb7c4d726c2f5fc9b661,gold,garantie1an,16go, galaxy j5 pro ,799.0,2go,jumia,2go 16go gold
+93,73f07cf100c9c560cc9f1c750c98404ced819096,vertemeraude,garantie1an,128go, y9 prime 2019 ,849.0,4go,jumia,4go 128go vertemeraude
+94,ecb4f8de11586acad42ef81f375da86efbf76913,blanc,garantie1an+cartemémoire16goclasse10,64go, f11 ,889.0,6go,jumia,6go 64go blanc
+95,5902b5de87a1cc8c21fe01f0ceb5b62f4cdf5b48,blanc,garantie1an,64go, a30 ,899.0,4go,jumia,4go 64go blanc
+96,f337ddef136e96c24e5fb84ded01e5ec1a7ff95b,bleu,garantie1an+baguetteselfie,16go, z9 ,190.0,1go,jumia,1go 16go bleu
+97,5eb2c106a7a6ef3626dc55f5e8d4ac2225305404,purple,garantie1an+cartemémoire16goclasse10,64go, f11 ,889.0,6go,jumia,6go 64go purple
+98,df0bd3fa134857fc6ea4e04b9edcd67081776961,gold,garantie1an,32go, y5 prime 2019 ,364.0,2go,jumia,2go 32go gold
+99,5b590a19e7e35e1786dcde7e9b1e5525fa437d05,noir,garantie1an,256go, iphone 7 plus ,2799.0,3go,jumia,3go 256go noir
+100,a70d7bb553fa3c1aeb318f7b5ec1f34804f6b1e6,auroragreen,garantie1an,128go, f11 pro ,1089.0,6go,jumia,6go 128go auroragreen
+101,6189d3353e286849cf8db8c45131de069c4ce13d,bruneambré,garantie1an+abonnementoryxoiptv&baguetteselfie,32go, y6 prime 2019 ,499.0,2go,jumia,2go 32go bruneambré
+102,763593d881bdb117d139fa9675b14e08903d0a29,noir,garantie1an,128go, p30 lite ,899.0,4go,jumia,4go 128go noir
+103,be807b7192504e995a9f1902952cc273e60d89c9,rouge,garantie1an+cartemémoire16go,32go, a5s ,489.0,2go,jumia,2go 32go rouge
+104,9ce6705382cca06a470cc865f2e4df6b245f14bf,noir,garantie1an,64go, galaxy s9 plus ,2699.0,6go,jumia,6go 64go noir
+105,b71b34ae7a550fcf517e7a9c68b83c3f4b949622,rouge,garantie1an,16go, galaxy a2 core ,349.0,1go,jumia,1go 16go rouge
+106,092abc50ae834729022c30072b5222670f8290b0,brun,garantie1an,32go, y5  2019 ,389.0,2go,jumia,2go 32go brun
+107,221844d8089617427bf01d5448b0403ab5eda77f,white,garantie1an,128go, galaxy a50 ,879.0,4go,jumia,4go 128go white
+108,416c4fd3850f59b5fad11dd9e85450a750d47272,noir,garantie1an,64go, iphone xr ,2599.0,2go,jumia,2go 64go noir
+109,22bb0a45b91161db5a148903efe709e9a521c710,bleu,garantie1an,8go, v5 ,189.0,1go,jumia,1go 8go bleu
+110,7f0ba2030678cdd5468db61b4e88495feca91bc3,noir,garantie1an,32go, y5 prime 2019 ,364.0,2go,jumia,2go 32go noir
+111,e09988394058131dd919a6d4f05819988374a283,rouge,garantie1an+cartesim+55dinarsdecommunication,32go, galaxy a20 ,529.0,3go,jumia,3go 32go rouge
+112,d8662ade77f017fde253263c7886aa8b51a610a2,rose,garantie1an,4go, z6 mini ,125.0,512mo,jumia,512mo 4go rose
+113,4208a5e988432ab01ad0c7caf93ae0d93100a435,blue,garantie1an,128go, galaxy a50 ,879.0,4go,jumia,4go 128go blue
+114,770bc9f749f101754861c22955d911b435c87d0d,blue,garantie1an,8go, v5 ,199.0,1go,jumia,1go 8go blue
+115,c77e376d578549598e9d6da813c95c61cd5dde46,noir,garantie1an,1go, smart 2 ,289.0,16go,jumia,16go 1go noir
+116,410914c2a726adcd686643e0546b6577ad657c14,noir,garantie1an,32go, hot 7 pro ,529.0,3go,jumia,3go 32go noir
+117,820b72047beb464ccaa3ff718da075981f18cca5,noir,garantie1an,16go, galaxy a2 core ,325.0,1go,jumia,1go 16go noir
+118,7f9f99fcc6184de265b057c9ad0f7e1e23c97ecb,gold,garantie1an,8go, v5 plus ,229.0,1go,jumia,1go 8go gold
+119,35ae8a39a6fbf028792fefcbb0879bc190738872,spacegray,garantie1an,64go, iphone x ,3599.0,3go,jumia,3go 64go spacegray
+120,7d06e2d73517f8eaed38baa94fec9af5e751ed56,gold,garantie1an,4go, v5 nano ,159.0,512mo,jumia,512mo 4go gold
+121,4a2d20f42b119a8c17d1497891989777bcdecacc,noir,garantie1an,8go, v5+ ,259.0,1go,jumia,1go 8go noir
+122,bbf708a50028bbe359f78e522d6d7e32dc0ac669,grissombre,garantie1an,1go, galaxy a2 core ,349.0,16go,jumia,16go 1go grissombre
+123,3eaf6e00c33bd2abb688a8a66e264a0ea8e56c3e,noir,garantie1an,16go, z9 ,219.0,1go,jumia,1go 16go noir
+124,97b024aa1445fc961c8347518a87ea7ce02d4863,noir,garantie1an,32go, y5  2019 ,364.0,2go,jumia,2go 32go noir
+125,71b4781bce21d57581b95e6f2a3cffcc6f840e19,gris,garantie1an,8go, v553 ,259.0,1go,jumia,1go 8go gris
+126,40ee0b2ac6e88bd532711bfbcf7fe8a84997586c,silver,garantie1an,1go, 2.1 ,399.0,4g,jumia,4g 1go silver
+127,66ec284d405d32bdb12065bd07e6179bbecc9348,bleucorail,garantie1an,64go, galaxy s9 plus ,1749.0,6go,jumia,6go 64go bleucorail
+128,8d72062c7096f9dcbdf2201489c4143d51febf94,bleu,garantie1an,128go, p30 lite ,900.0,4go,jumia,4go 128go bleu
+129,30fd5bd80e6c364c93c8de4509bfbe9a01a59c77,noir,garantie1an,128go, nova 3i ,999.0,4go,jumia,4go 128go noir
+130,2f0c7f58af9dc3094fe531b6114e864399fb7bbe,irispurple,garantie1an,128go, nova 3i ,1099.0,4go,jumia,4go 128go irispurple
+131,4db2a63dacc8dbb44546348c4633cca0137c8d4d,vert,garantie1an+cartemémoire16goclasse10,128go, f11 pro ,1149.0,6go,jumia,6go 128go vert
+132,ecbe52214130266af8450b64abaedb3b7804db96,gold,garantie1an,64go, galaxy a6 plus ,1199.0,4go,jumia,4go 64go gold
+133,41cc79f95fd8545f035ee02dba6b41e0374981d5,blue,garantie1an,128go, a50 ,1199.0,4go,jumia,4go 128go blue
+134,f710b32baf6b10b11d321189658a40121dd0a856,blanc,garantie1an,128go, galaxy s10e ,2199.0,6go,jumia,6go 128go blanc
+135,bd4820968e16e50308bb673c7ab29eed4a7041cd,noir,garantie1an+cartesim+55dinarsdecommunication,32go, galaxy a20 ,529.0,3go,jumia,3go 32go noir
+136,0c5bf04e2684e48502ae52c6a1e38f4aa8a98e22,gris,garantie1an,8go, v5 ,189.0,1go,jumia,1go 8go gris
+137,5a052e3028483f17e564ad9a68f1da213adeb968,rouge,garantie1an,64go, y9 2019 ,659.0,4go,jumia,4go 64go rouge
+138,d6d997f0d20900f1604b7400e791b152b112d7e8,gold,garantie1an,16go, moto e4 plus ,399.0,3go,jumia,3go 16go gold
+139,dbfb30a878d4adf2321c63e9440e70bac5e4c640,grissidéral,garantie1an,64go, iphone 8 ,2149.0,2go,jumia,2go 64go grissidéral
+140,fc52f4322f8337d2ec6acf3fab6ce239d3185fa3,midnightblack,garantie1an,4go, y9 prime 2019 ,798.0,128go,jumia,128go 4go midnightblack
+141,fc7b7df4cb2ea8442730c3481cfa8d055dc98bbb,noir,garantie1an,128go, galaxy note 9 ,1999.0,6go,jumia,6go 128go noir
+142,e6937796cb73e9727432d4998296865397abcf68,noir,garantie1an,32go, y5 prime 2019 ,369.0,2go,jumia,2go 32go noir
+143,fbc9501769bbda55e43b9a0f49e3fc0f99453d32,noir,garantie1an+filmdeprotection11d,128go, nova 3i ,809.0,4go,jumia,4go 128go noir
+144,10781f5e169010ad00e4a9893fd7007b40f68e7b,blue,garantie1an,64go, galaxy a30 ,829.0,4go,jumia,4go 64go blue
+145,3f4af5e47794e83b3aa2447399a230669e8e6499,bleu,garantie1an,4go, z6 mini ,125.0,512mo,jumia,512mo 4go bleu
+146,5bb3819299fe00bb4921a8ce485d677abbf63e00,mokabrown,garantie2ans,4g, mate 10    double sim ,999.0,"64go,4go",jumia,"64go,4go 4g mokabrown"
+147,fd9fe1f1889b9d24f284a015a8c1c0d9eeeaf32c,noir,garantie1an,32go, y7 prime 2019 ,599.0,3go,jumia,3go 32go noir
+148,8950ad27d3d919f747beb347174bcf451de45571,noir,garantie1an,16go, y6 prime 2018 ,429.0,2go,jumia,2go 16go noir
+149,8e23b11a48b67f5cf4e05fc3d62e166dce4076eb,jewelrywhite,garantie1an,64go, f11 ,879.0,6go,jumia,6go 64go jewelrywhite
+150,122ad66c75f555b72c65c3752e71c9170cff3b0e,violetfoncé,garantie1an,32go, a3s ,569.0,3go,jumia,3go 32go violetfoncé
+151,1d70fd8b9c449ff273597ebca7895ac8734ecabb,blanc,garantie1an+cartesim+55dinarsdecommunication,128go, galaxy a50 ,825.0,4go,jumia,4go 128go blanc
+152,dbc60a3590d453becbae41da187502a245f33e40,thundernoir,garantie1an,128go, f11 pro ,1149.0,6go,jumia,6go 128go thundernoir
+153,7d15abba99dc05c89d2ac4b33d2e8fb06cbc9e1a,silver,garantie1an,32go, iphone 7 ,1599.0,ram2go,jumia,ram2go 32go silver
+154,721de653ad27f3d4cea18f79f4be19355b1cf69a,black,garantie1an,doublesim, v5 nano ,128.0,wifi,jumia,wifi doublesim black
+155,cd762a65ac06c1dd86c99d6edc52c6edb9f87fc5,bleu,garantie1an,32go, galaxy a10 ,459.0,2go,jumia,2go 32go bleu
+156,4bd83582891d4b55f3ce37a640c25d35edef1947,peacockbleu,garantie1an,128go, p30 lite ,849.0,4go,jumia,4go 128go peacockbleu
+157,da54bb75b47c7184227b050acb281aed1a8150ac,bluecopper,garantie1an,8go, 2.1,349.0,1go,jumia,1go 8go bluecopper
+158,464342e651078c70601e482793736bfcae6ed63c,noir,garantie1an,32go, galaxy a10 ,500.0,2go,jumia,2go 32go noir
+159,19addc25d62a28c7ca76dec072bcb7095b5efc22,gold,garantie1an,1go, smart 2 ,299.0,16go,jumia,16go 1go gold
+160,581a3ae5a65b64283bd0144ed77a1c749452487b,bleu,garantie1an,32go, y7 prime 2019 ,575.0,3go,jumia,3go 32go bleu
+161,3647cdd66402f1e92550f42288d9279bf9592489,gold,garantie1an,8go, j2 core ,369.0,1go,jumia,1go 8go gold
+162,25387216c680a6dc51c469c47bbd4513f8c6093d,noir,garantie1an,32go, y6 prime 2019 ,507.0,2go,jumia,2go 32go noir
+163,c4aa13555079981a80ababf39d6498549b19aeb0,gold,garantie1an,32go, y7 prime 2018 ,515.0,3go,jumia,3go 32go gold
+164,288da39daa5d7fd70f0ec383f3836d35cef50785,gold,garantie1an,32go, y7 prime 2018 ,518.0,3go,jumia,3go 32go gold
+165,5b1d03e77103b2570818307bdc0f3c52292e7011,noir,garantie1an+abonnementoryxoiptv&baguetteselfie,32go, y7 prime 2018 ,599.0,3go,jumia,3go 32go noir
+166,69b475806967a982ddedebdcbe1dabe18b20c5e7,rouge,garantie1an,16go, smart 2 ,299.0,1go,jumia,1go 16go rouge
+167,bf11ecec5aa02f2101fc82bef90e53aed1ad45bd,gold,garantie1an,16go, galaxy a2 core ,339.0,1go,jumia,1go 16go gold
+168,9c3b093ec8c93d41f8a94f3b4bd3c853896cd85d,rouge,garantie1an,32go, a5s ,539.0,3go,jumia,3go 32go rouge
+169,d8daa0c3f3909e86d212818e8a24923440f5a04d,noir,garantie1an,32go, a5s  ,539.0,3go,jumia,3go 32go noir
+170,08aaa52e5616aaf1b5660b970e028a56bfc45066,blanc,garantie1an,128go, galaxy s10 ,2499.0,8go,jumia,8go 128go blanc
+171,4b84f892511a1339db00e9c587dc27856830401c,bleu,garantie1an,16go, galaxy a2 core ,345.0,1go,jumia,1go 16go bleu
+172,99d8747fc1149fb39cb1ac509de4014941366464,rouge,garantie1an,32go, a20 ,669.0,3go,jumia,3go 32go rouge
+173,a5109cca3b32a6e69396af2137c892fcab5569fb,gold,garantie1an,4go, z6 mini 3g ,135.0,512mo,jumia,512mo 4go gold
+174,c34c6c65b26c43e70cef977b45d448557ef6778b,gold,garantie1an,64go, iphone 8 ,2259.0,2go,jumia,2go 64go gold
+175,895ab6dbeb24e2f85ba0ed4dee0a38f1cf00f282,noir,garantie1an,128go, galaxy s10e ,2899.0,6go,jumia,6go 128go noir
+176,75ad61806b169c467737cf23c6b1bd4c5efea9a9,silver,garantie1an,64go, iphone xs ,3299.0,4go,jumia,4go 64go silver
+177,86e312ee74d69deb80ddc2a6023c6a1ef3810f08,noir,garantie1an,64mo, pasito ,108.0,64mo,jumia,64mo 64mo noir
+178,bf93b433ce8a3d8fd018471772229294462a1e53,noir,garantie1an,64go, y9 2019 ,658.0,4go,jumia,4go 64go noir
+179,f74ff17e332ee660c43fd862371bc4aad57726bd,bleusaphir,garantie1an,4go, y9 prime 2019 ,797.0,128go,jumia,128go 4go bleusaphir
+180,e2e6dbcd4d1ee0d7723739e633d6efd1c19b85f3,noir,garantie1an+baguetteselfie,16go, z9 ,190.0,1go,jumia,1go 16go noir
+181,106150b7a7c034b394e7c7bc4d7cbdad8c610f06,midnightblack,garantie1an,128go, y9 prime 2019 ,819.0,4go,jumia,4go 128go midnightblack
+182,86508da841371c12728ff9819f6fa53bca81abe6,violet,garantie1an,64go, f9 ,789.0,4go,jumia,4go 64go violet
+183,18f1f2e3398a6ffc5517a66f0b9a55a7a1a81548,noir,garantie1an,32go, a1k ,369.0,2go,jumia,2go 32go noir
+184,33921de4a1a426e7fb10ae0f34d73f37ca9778b5,thundernoir,garantie1an,128go, f11 pro ,1100.0,6go,jumia,6go 128go thundernoir
+185,d34d87b0076d72a15bd76bbd206cb88cea5113f2,blanc,garantie1an,128go, p30 lite ,899.0,4go,jumia,4go 128go blanc
+186,7dd69f0c533a79da118e280b94a4b82b479108ff,,garantie1an,32go, a7010 ,589.0,2go,jumia,2go 32go 
+187,8a0ec04aa3c3ae44b49878d1d99b51d78b9bc128,rouge,garantie1an,32go, a1k ,379.0,2go,jumia,2go 32go rouge
+188,80273b2ced49eec9bf400c225b9ca52d4c3cc4a5,blanc,garantie1an,stockage8go, vyper ,219.0,ram1go,jumia,ram1go stockage8go blanc
+189,1f4cdbf0fd06402c0e9ed7d039ab90279ecc1368,brown,garantie1an,32go, y5 2019 ,399.0,2go,jumia,2go 32go brown
+190,575f5836200e81f6b05cd0c84ecd584c8402a174,noir,garantie1an,4go, z6 mini ,125.0,512mo,jumia,512mo 4go noir
+191,9c206523ae536349742f30e468235c94f22b59a0,thundernoir,garantie1an,128go, f11 pro ,1099.0,6go,jumia,6go 128go thundernoir
+192,a76a1e5b6b5235a584a8ba6f965ea96db7c2839c,bleu,garantie1an,128go, p30 lite ,849.0,4go,jumia,4go 128go bleu
+193,ac7f924e4009f1553703fd45a4344a3335ba6d58,noir,garantie1an,128go, p30 lite ,849.0,4go,jumia,4go 128go noir
+194,d667234f4d57aca98d632d83f9ede78f0619d70c,purple,garantie1an,64go, f11 ,885.0,6go,jumia,6go 64go purple
+195,7b95bf54a1cb3e2fcbc8694373d7ae2b003842a0,noir,garantie1an,8go, 1 plus ,359.0,1go,jumia,1go 8go noir
+196,6f772c59167c2e5797799ac48505863200d36394,rouge,garantie1an,8go, 1 plus ,359.0,1go,jumia,1go 8go rouge
+197,8f1cd5044ea006b47f5083d6b5ce51f7d926ff7b,bleu,garantie1an,8go, 1 plus ,359.0,1go,jumia,1go 8go bleu
+198,a2be19e0e5ff668a8a5e7dcf6b63fd179961dafb,blanc,garantie1an,4go, cleverjoy s40 ,149.0,512mo,jumia,512mo 4go blanc
+199,35e7188fb9238467e8da96b74d11d8ef5715ed13,noir,garantie1an,4go, clever lite s41 ,160.0,512mo,jumia,512mo 4go noir
+200,9cb4ef41c404ef5eaa9f1f754e426b3f1646c295,noir,garantie1an,4go, clever lite s41 ,160.0,512mo,jumia,512mo 4go noir
+201,1baaef2725a526631f9b0419f5c7453d8ac52b38,gold,garantie1an,4go, clever lite s41 ,160.0,512mo,jumia,512mo 4go gold
+202,6da5aa5688338b0abd3f472283cf6f9ecbcd1dc6,rouge,garantie1an,4go, clever lite s41 ,160.0,512mo,jumia,512mo 4go rouge
+203,b938992f526db7db637461a76b137c9169671b35,,noirgarantie1an,8go, kylin 50i ,230.0,1go,jumia,1go 8go 
+204,a44efa30e2b40432f92f517ab133ce71b4900d6d,silver,garantie1an,8go, v5 ,239.0,1go,jumia,1go 8go silver
+205,5cf2f59c7c0c85ceabc9ba81d3b420a3bd0e69e6,grey,garantie1an,8go, smartphone grand energy ,280.0,ram1go,jumia,ram1go 8go grey
+206,4c44f0b797545b3b39a91c03203766b56ac8924a,bleu,garantie1an,16go, galaxy a2 core ,315.0,1go,jumia,1go 16go bleu
+207,f4fc0423951cb1bd7ee129106c798a392dc878c3,blanc,garantie1an,64go, galaxy a30 ,649.0,4go,jumia,4go 64go blanc
+208,96f9e1f170517baf659cb9904cef1ad4d4c9d244,gold,garantie1an,64go, iphone 8 plus ,2539.0,3go,jumia,3go 64go gold
+209,0f38702a41dca7d8efc537185bd135f1ceaf03c4,noir,garantie1an,32go, galaxy j8 ,599.0,3go,jumia,3go 32go noir
+210,bf7959f2968e0f9f70498ba546d81eadcb5841e6,gold,garantie1an,8go, v5 ,189.0,1go,jumia,1go 8go gold
+211,a6f8609cb9abaa9c7fa87f933b09705470582fdd,noir,garantie1an,128go, nova 3i ,769.0,ram4go,jumia,ram4go 128go noir
+212,3c1011a8b1df8f2475c4c92974b17492cc628bf7,,garantie1an,, smartphone   z9 ,188.0,,jumia,  
+213,0744084c23a4909e34408411819e51f940cdee1e,noir,garantie1an,128go, nova 3i ,789.0,4go,jumia,4go 128go noir
+214,e12d00fc7ee66a121a59c0656518564aef59a821,gold,garantie1an,16go, power ,298.0,1go,jumia,1go 16go gold
+215,740ca06815b94a70de9fdeaa3430d8d08412e086,silver,garantie1an,16go, power ,299.0,1go,jumia,1go 16go silver
+216,707a1c9b8117b2fb95c65641828dd43208e46099,noir,garantie1an,8go, kylin 5.5 ,299.0,1go,jumia,1go 8go noir
+217,bfa7bd8774b24c5a611a61537f2f0deaa88886b0,rouge,garantie1an,8go, v8 ,299.0,1go,jumia,1go 8go rouge
+218,15ec171f46778f6df17a522bf9fb37a5971fb549,noir,garantie1an,16go, moto c ,309.0,1go,jumia,1go 16go noir
+219,9962a25d209a03261f1855a4b1d74704877173b4,8go,garantie1an,4g, smartphone 50d ,335.0,helium,jumia,helium 4g 8go
+220,4094fb59d4298081d7552c0b462090a282cac044,bleu,garantie1an,16gb, m9 ,339.0,2gb,jumia,2gb 16gb bleu
+221,6de068d88a3cd134b5c027aca22195980c619520,rouge,garantie1an,16go, moto c plus ,339.0,1go,jumia,1go 16go rouge
+222,c7c164bf1bf63cb0eee94c9c5d7e9f8d9febec12,emeraldgreen,garantie1an,128go, y9 prime 2019 ,819.0,4go,jumia,4go 128go emeraldgreen
+223,e331b59ecd086b87a3df4fedafa408097018fced,bleu,garantie1an,16go, y6 prime 2018 ,399.0,2go,jumia,2go 16go bleu
+224,fb17dfa692ecd11ea6757e5c60fbb9401e63a2b8,,garantie1an,, smartphone  galaxy j7 core   4g ,599.0,,jumia,  
+225,e628511ed49ddba939b5c0b0842b83b7a4abcb1c,bleu,garantie1an,16go, y5 prime 2018 ,355.0,2go,jumia,2go 16go bleu
+226,09cdc7e19803de7cf57685d2e271524e78516679,noir,garantie1an,128go, galaxy s10 plus ,3999.0,8go,jumia,8go 128go noir
+227,1eda93028dc1196d8f2b7b0c71ef829325d77ccc,rouge,garantie1an,32go, a5s ,473.0,2go,jumia,2go 32go rouge
+228,548c1615bd8bbad40fe8c90e9e510955be5d1a6a,gold,garantie1an,32go, t8s  ,479.0,4go,jumia,4go 32go gold
+229,78bcead3d33c6da864a0baaa984f245cf10e716e,bleu,garantie1an,32go, y5 prime 2019 ,390.0,2go,jumia,2go 32go bleu
+230,3109c6b2fc6c62ae58d4f6ce7756db8d27ffd580,rouge,garantie1an,32go, galaxy a10 ,459.0,2go,jumia,2go 32go rouge
+231,663f83a81a7e4e292905954097167bad4c11d6c6,gold,garantie1an+baguetteselfie,16go, z9 ,190.0,1go,jumia,1go 16go gold
+232,89a0ecb0c62db1e2240b90f7d3536cc48cd38efa,rouge,garantie1an,32go, a5s ,475.0,2go,jumia,2go 32go rouge
+233,2f7b66e559a273bbc436dd364b48460658cd43eb,noir,garantie1an,16go, y5 lite 2018 ,359.0,1go,jumia,1go 16go noir
+234,bbd9bfdfdc9338b8c3a3728891dc10b2b841eb44,bleu,garantie:1an+cartemémoire16go,8go, 1 plus ,359.0,1go,jumia,1go 8go bleu
+235,e52339a7740e53507239635c6245846d9021db93,blanc,garantie1an,8go, 2.1 ,359.0,1go,jumia,1go 8go blanc
+236,a758eabb845b2ebab9f382a4b17db17dc6304a33,noir,garantie:1an+cartemémoire16go,8go, 1 plus ,359.0,1go,jumia,1go 8go noir
+237,777917853b34cd65ca50019ab932da443de41998,rouge,garantie:1an+cartemémoire16go,8go, 1 plus ,359.0,1go,jumia,1go 8go rouge
+238,ef5cc6cf7a966c5b1a2f2b9a34b4651c36bbd850,silver,garantie1an,16go, redmi   5a ,369.0,2go,jumia,2go 16go silver
+239,058c539eaad301aada146c113073fda7d71fbe25,gold,garantie1an,16go, redmi   5a ,379.0,2go,jumia,2go 16go gold
+240,7f253de7ee105ee2acfbc7d360e750042cc90198,bleu,garantie1an,8go, 2.1 ,379.0,1go,jumia,1go 8go bleu
+241,14e247c45892dd44fc024c9c69a4564e29720019,noir,garantie1an,16go, le must ,319.0,2go,jumia,2go 16go noir
+242,d305c76ca88c291b0cb6d7d51396b1aee13dc863,noir,garantie1an,16go, galaxy j4 ,399.0,2go,jumia,2go 16go noir
+243,26a09c3ed36237d4df2724d5e5eb7d98eafd233e,noir,garantie1an,32go, a3s ,579.0,3go,jumia,3go 32go noir
+244,99254e6032832a5bfeba440f7a258c90905cafb2,bleu,garantie1an,64go, iphone xr ,2899.0,2go,jumia,2go 64go bleu
+245,4987188a91ff0c46806643476228ca2112f74e0f,auroraviolet,garantie1an,64go, y9 2019 ,659.0,4go,jumia,4go 64go auroraviolet
+246,e3fbd7d7c6d0e421b74892d9e12cad2341e09019,rouge,garantie1an,8go, v5 plus ,229.0,1go,jumia,1go 8go rouge
+247,81e55a5115dcf1a779ac43cc5a5f9e407bf34d53,silver,garantie1an,64go, iphone 8 ,2119.0,2go,jumia,2go 64go silver
+248,4791ef207cb55f80364dd43fec6e250460527edb,noir,garantie1an,16go, galaxy a2 core ,315.0,1go,jumia,1go 16go noir
+249,ccdf9242c2887933799cf6b35e0e846fda5ff9d2,noir,garantie1an,32go, galaxy j8 ,670.0,3go,jumia,3go 32go noir
+250,8f574513eee090cde53895923e488de52a68a067,noir,garantie1an,16go, m9 pro 4g ,358.0,2go,jumia,2go 16go noir
+251,af9c33bc69a14d41768a5d2537f663b7708efe0e,noir,garantie1an,8go, v4 ,189.0,1go,jumia,1go 8go noir
+252,f9669647ca88ed8cb6ce09ec4c30b89a9ab8c95c,bleu,garantie1an,32go, galaxy a20 ,529.0,3go,jumia,3go 32go bleu
+253,fb05a0830735a4f856a37d5fbb0ad83db769c9a5,noir,garantie1an+flipcover,8go, l,149.0,1go,jumia,1go 8go noir
+254,a4b24fa6f444c9687f36aec62525e9f1260cb127,bruneambre,garantie1an,32go, y5  2019 ,379.0,2go,jumia,2go 32go bruneambre
+255,0ca4b825a5621fc2e3ef2d10f85722a77e83e25c,noir,garantie1an,32go, y5 2019 ,379.0,2go,jumia,2go 32go noir
+256,ae551653a58baf06769c0c9bc8bdd0ce8afd7bee,gold,garantie1an,32go, y5 prime 2019 ,390.0,2go,jumia,2go 32go gold
+257,560ae8e671b9e7fff9101ebaab56260baf597553,gold,garantie1an,16go, m11 gold  ,439.0,2go,jumia,2go 16go gold
+258,4bfe17a7c63b73c99212e02aacddf60a146d8837,brune,garantie1an,32go, y5  2019 ,379.0,2go,jumia,2go 32go brune
+259,b3746e67f091ab45157df68b0a048ca670ef5d92,champagnegold,garantie1an,1gram, smart 2 hd+ ,289.0,16g,jumia,16g 1gram champagnegold
+260,d1acca086f525600b3b5e983f10cc99ff69ae490,gold,garantie1an,8go, v9 plus ,329.0,1go,jumia,1go 8go gold
+261,8b30fdc2e68316debf63c3ce90ff9fe8b7d46700,purple,garantie1an,128go, nova 3i ,768.0,4go,jumia,4go 128go purple
+262,e6be84fbba57f35d98460ad782031b5b6f6a9273,noir,garantie1an,16go, a2 core ,339.0,1go,jumia,1go 16go noir
+263,c1f3133522da36d588441c73abcd90f76b59ef8e,gold,garantie1an,8go, v4+ ,249.0,1go,jumia,1go 8go gold
+264,fe40eb93e195bf43a080d0847a4d404a517f5264,rouge,garantie1an,32go, galaxy j6 plus ,595.0,3go,jumia,3go 32go rouge
+265,067f00fdfea3f0a116f7d0ced2621593adfc517e,bleu,garantie1an,64go, galaxy a30 ,739.0,4go,jumia,4go 64go bleu
+266,49d4ca73016120c65b952c16a07e3d82b09c779a,irongris,garantie1an,16go, moto e4 plus ,399.0,3go,jumia,3go 16go irongris
+267,fcd673a4315a92dac48dde4652b4cad44fa4e14d,aquableu,garantie1an,1gram, smart 2 hd+ ,289.0,16g,jumia,16g 1gram aquableu
+268,c2df30ae746ead907bd10c06cff6d5d92c14b890,noir,garantie1an,32go, y5 prime 2019 ,389.0,2go,jumia,2go 32go noir
+269,b4483f5a7834d259c12d2b910473e0e4b5508b0b,noir,garantie1an+cartemémoire16goclasse10platinet,stockage8go, vyper ,219.0,ram1go,jumia,ram1go stockage8go noir
+270,87842e6d01665606a8603909fce0cf77a4afb4ab,blanc,garantie1an,4go, z6 mini ,125.0,512mo,jumia,512mo 4go blanc
+271,f8b9827f6f911c3e121f048e86b68e69c1966d0e,bleu,garantie1an,16go, a2 core ,349.0,1go,jumia,1go 16go bleu
+272,99afaa7d57de6a8488263188da7ca2036d491ece,bleu,garantie1an,16go, a2 core ,339.0,1go,jumia,1go 16go bleu
+273,45cc865eed229548ff57b3e795cc97b6995badf4,gold,garantie1an,8go, smartphone grand energy ,285.0,ram1go,jumia,ram1go 8go gold
+274,95893f384b61a974c66c5504b5ae2cdcba36655c,gold,garantie1an,8go, kylin 50i ,230.0,1go,jumia,1go 8go gold
+275,5c763e68e92e15919235f84e868caf07a4d2aba5,rouge,garantie1an,16go, galaxy a2 core ,329.0,1go,jumia,1go 16go rouge
+276,65a069a9513e95fbca914cc4dd6523e38cc3bff6,bleu,garantie1an,32go, y5 prime 2019 ,389.0,2go,jumia,2go 32go bleu
+277,c7da03393beb03a4d3d4bb00c9e0266f2451edb0,,garantie1an,, tablette   7\  ,183.0,,jumia,  
+278,e6f6bf87e3a4771ea120d3f8791697c1822f8ec6,rouge,garantie1an.,8go, tablette s7g ,185.0,1go,jumia,1go 8go rouge
+279,23020095f8a5f1a8660f6b77776ce9b618edb060,blanc,garantie1an,8go, tablette tab 105 ,209.0,1go,jumia,1go 8go blanc
+280,bae165ba170b62a9525344dee3c3484a858657ca,gold,garantie1an,16go, tablette leapad x5 7\  3g ,205.0,1go,jumia,1go 16go gold
+281,da087951eb0f36cf691dfb244e362d16ca764f5a,noir,garantie1an,8go, tab link 71,189.0,1go,jumia,1go 8go noir
+282,4e8f315df1109aec383f9f8fd92c541df6fe622b,noir,garantie1an,8go, tablette ,250.0,1go,jumia,1go 8go noir
+283,ffdd4654e49e3708816070b674ba81f1afc0dc18,blanc,garantie1an,8go, tablette ,176.0,1go,jumia,1go 8go blanc
+284,6ec7f30948bcbf9c7698efce7f391a1e2550a025,blanc,garantie1an,8go, tablette ,188.0,1go,jumia,1go 8go blanc
+285,be86929ab184beb04eee7b8c4f75ec622083a884,rosegold,garantie1an,64go, ipad pro wi fi + cellular ,3167.0,4go,jumia,4go 64go rosegold
+286,05aa7c3edc9aae1d91c83acc218a74b87c31cad4,gold,garantie1an,64go, ipad pro  wi fi + cellular ,3167.0,4go,jumia,4go 64go gold
+287,69ee44cd952c8f17d2aebb6e958184c775b09ef4,gold,garantie1an,32go, ipad wi fi + cellular ,1780.0,2go,jumia,2go 32go gold
+288,81fb61a5d18a1e78c49d2b589b9097cec889b3c1,grissidéral,garantie1an,32go, ipad wi fi + cellular ,1780.0,2go,jumia,2go 32go grissidéral
+289,74f22ed23d9a3a64b0c30ce808156191b2ea6064,noir,garantie1an,16go, tablette leapad x ,184.0,1go,jumia,1go 16go noir
+290,8b92ad6e6d03e02d91c689d51be67d02d7f2b51d,noir,garantie1an,8go, tablette galaxy tab a sm ,499.0,1.5go,jumia,1.5go 8go noir
+291,126acaf3bd09402815c272b3678e2d8147168a48,blanc,garantie1an,64go, f11 ,885.0,6go,jumia,6go 64go blanc
+292,2e11037d8015f26e966c4258dad9daa59b58063c,vert,garantie1an,64go, f11 ,849.0,6go,jumia,6go 64go vert
+293,bc6bc90430d0f4b3766548aac02871e8898065b8,noir,garantie1an,128go, galaxy a50 ,824.0,4go,jumia,4go 128go noir
+294,358c93b0d3ad2cbf5db99fe98b57f776131b4439,bleu,garantie1an,128go, galaxy a50 ,824.0,4go,jumia,4go 128go bleu
+295,f3f640967fc74c97811fea82380c17b282afad21,bleu,garantie1an,64go, y9 2019 ,699.0,4go,jumia,4go 64go bleu
+296,683d6fc8036205cdc1403b6205c200f3b5b465d0,bleu,garantie1an,128go, galaxy a50  ,825.0,4go,jumia,4go 128go bleu
+297,3d2d7f23573de8bb76ac7c51448ee298000b4e61,bleu,garantie1an,16go, z9 ,187.0,1go,jumia,1go 16go bleu
+298,2cc74204759db241079d2ecf0152fa3417310759,rouge,garantie1an,32go, galaxy a20 ,549.0,3go,jumia,3go 32go rouge
+299,e0d4dd66e128be45e5b716ec0a86a39e10d21073,noir,garantie1an,4go, clever lite s41 ,119.0,512mo,jumia,512mo 4go noir
+300,edb1358aaf6831a4d59c7b4a0dd452ce591eb64d,gold,garantie1an,16go, z9 ,187.0,1go,jumia,1go 16go gold
+301,0841446bee8f0e412d8ee3a65a1409767eb5a9e2,noir,garantie1an,16go, z9 ,187.0,1go,jumia,1go 16go noir
+302,48b674f2b73e28423cb8f368443995ace3402386,bleu,garantie1an,32go, galaxy a20 ,579.0,3go,jumia,3go 32go bleu
+303,dd5fef22cc2cff12e6517cd4b2d462f9e35818a7,noir,garantie1an,32go, galaxy a20 ,599.0,3go,jumia,3go 32go noir
+304,59397551f816776aeabfd6cffede233de5c0bbc3,noir,garantie1an,16go, power 2 ,269.0,2go,jumia,2go 16go noir
+305,7972f44753210f92a5d61ca11816aafe9ae9b1c7,noir,garantie1an,16go, m9 pro 4g ,357.0,2go,jumia,2go 16go noir
+306,eb9e84280f24921f91a6edd63b3ccbb4a371b12f,noir,garantie1an,32go, a5s ,469.0,2go,jumia,2go 32go noir
+307,9f41dd86cf9357a8774c645bdfa84ed9d9f4544d,bleu,garantie1an,16go, m9 pro ,352.0,2go,jumia,2go 16go bleu
+308,5ad874c1f1baf3a5616f73a9ac5d91cab6cbdbeb,rouge,garantie1an,32go, y7 prime 2019 ,559.0,3go,jumia,3go 32go rouge
+309,0df3f2b8f86747706144d68bf59757f8e86201e9,,garantie1an,16go, power 2 gold  ,279.0,2go,jumia,2go 16go 
+310,f8909ca62ae7c25f9915d94600643f416ecbbfea,vert,garantie1an,4go, clever lite  s41 ,119.0,512mo,jumia,512mo 4go vert
+311,c817baab73ee61db2dcf11ba5fb4faf54365e138,silver,garantie1an,4go, clever lite s41 ,160.0,512mo,jumia,512mo 4go silver
+312,4f22da4efe0f10c352cfdcc5099911979cdc2314,corail,garantie1an,128go, galaxy a70 ,1559.0,6go,jumia,6go 128go corail
+313,c489630311ce73be6acec9ee3a8c47d89b25c01f,noir,, 4go,smartphone leagoo z6 mini,149000.0, 512mo,MyTek, 512mo  4go noir
+314,993d7a9357afceb5922964be2c09686a6dfebd2b,bleu,, 4go,smartphone leagoo z6 mini,149000.0, 512mo,MyTek, 512mo  4go bleu
+315,b35157bf0876a9329c4cd9a6ad04c65023cd1998,gold,, 4go,smartphone leagoo z6 mini,149000.0, 512mo,MyTek, 512mo  4go gold
+316,112b1572b5dc9c871fb9e9554530331365bf9f75,noir,, 8 go,smartphone leagoo z6 3g,199000.0, 1go,MyTek, 1go  8 go noir
+317,af78a755c1a5528aaf7d01f8d0e5c8ca7cb43680,noir,, 8go,smartphone tecno pop 2,259000.0, 1g ,MyTek, 1g   8go noir
+318,383dcf03b946da73d1bc1cc25647ee4d7f57ffa1,gold,, 8go,smartphone tecno pop 2,259000.0, 1g ,MyTek, 1g   8go gold
+319,99d6615dcd55e37557c34fb5fc7573603b427d9f,gris,, 8go,smartphone versus v553 gris,259000.0, 1g ,MyTek, 1g   8go gris
+320,7d4e30f2f279c1e33272e9bfd534eb488cd6b7e5,gold,, 8go,smartphone versus v553 gold,259000.0, 1g ,MyTek, 1g   8go gold
+321,b9b3c6cddf13e76bda2da237b4fd11abb079f6fd,noir,,16 go,smartphone leagoo power 2,279000.0,2go ,MyTek,2go  16 go noir
+322,4b08e0d1f202cbaa032be54d695282d0558e153e,gold,,16 go,smartphone leagoo power 2,279000.0,2go ,MyTek,2go  16 go gold
+323,ab4020452ede4ddbdf40802165ffe20e2ec2f36d,bleu,, 8go extensiblejusqu'à 128go ,smartphone nokia 1 plus,329000.0, 1go ,MyTek, 1go   8go extensiblejusqu'à 128go  bleu
+324,9fcc56327fa43f583586cee7e3354d4bc0378533,noir,, 8go extensiblejusqu'à 128go ,smartphone nokia 1 plus,329000.0, 1go ,MyTek, 1go   8go extensiblejusqu'à 128go  noir
+325,16ae55395eb8492ae557fa2cdcd8eea74b77ddba,brown,, 32go ,smartphone huawei y5 2019,399000.0, 2go ,MyTek, 2go   32go  brown
+326,7aa3851bf50625b88a69dd7daea95f807ef33a6c,bleu,, 32go ,smartphone tecno spark 3,449000.0, 2go ,MyTek, 2go   32go  bleu
+327,adeabe6ad8fbb3b4868e33f3f2be967f4fe391fb,noir,, 32go ,smartphone tecno spark 3,449000.0, 2go ,MyTek, 2go   32go  noir
+328,7a5e10b6d45ae74b9d04e5103ef68d166495e6ba,blanc,, 32go ,smartphone nokia 3.1 16go,459000.0, 2go ,MyTek, 2go   32go  blanc
+329,8f8ad2f86bcd0fcfd66460954fe24ef00e2a3f9e,brown,, 32go ,smartphone huawei y6 prime,479000.0, 2go ,MyTek, 2go   32go  brown
+330,356f99eb8c6b327216728072186b3300fff54e8d,noir,, 16go extensiblejusqu'à 128go ,smartphone nokia 3.2 2019,479000.0, 2go ,MyTek, 2go   16go extensiblejusqu'à 128go  noir
+331,0073c8d0302c1a012ed9495476be62feb9fa2bbc,noir,,  32go ,smartphone huawei y6 prime,479000.0, 2go ,MyTek, 2go    32go  noir
+332,ad6fcb03f1c5b9baee920322d5699fe4326b7d87,bleu,, 32go ,smartphone huawei y6 prime,479000.0, 2go ,MyTek, 2go   32go  bleu
+333,9d92b2721adf80ed09077791e255194820fb2319,gold,, 32go ,smartphone leagoo t8s 4g,479000.0, 4go ,MyTek, 4go   32go  gold
+334,26beb55b65d99af07e9c2ae73173f7b2d6056b2b,rouge,," 32 go, microsdjusqu'à512go",smartphone samsung galaxy a10,499000.0, 2go ,MyTek," 2go   32 go, microsdjusqu'à512go rouge"
+335,2bc0781ea6996eb75e0840640d73fa084c920928,bleu,, 16go ,smartphone huawei y6 prime,499000.0, 2go ,MyTek, 2go   16go  bleu
+336,bc23737296fcf5eef315e18c7298065234f49795,bleu,," 32 go, microsdjusqu'à512go",smartphone samsung galaxy a10,499000.0, 2go ,MyTek," 2go   32 go, microsdjusqu'à512go bleu"
+337,28c97c1808c4159214fbe6af787433d6e32ddd48,noir,,128go ,smartphone samsung galaxy s10,3499000.0, 8go ,MyTek, 8go  128go  noir
+338,e7363fcdc691b1ff7fb8ed3eee3656ac3e1c3385,blanc,,128go ,smartphone samsung galaxy s10,3499000.0, 8go ,MyTek, 8go  128go  blanc
+339,c0fbf9f46e778369a12e06f99ab53b7741fc4d62,vert,,128go ,smartphone samsung galaxy s10+,3899000.0, 8go ,MyTek, 8go  128go  vert
+340,82b80f91b47ab8e1e5a24789fb32ca49d05f1737,blanc,,128go ,smartphone samsung galaxy s10+,3899000.0, 8go ,MyTek, 8go  128go  blanc
+341,3e187117ad49688044c1401ace6fade9303512ca,noir,,128go ,smartphone samsung galaxy s10+,3899000.0, 8go ,MyTek, 8go  128go  noir
+342,520ff7f91f3f03614ab91ccf6ea74a66413efc23,aurora,,128go ,smartphone huawei p30 pro,3999000.0, 8go ,MyTek, 8go  128go  aurora
+343,049d04a21c51f63bef32cf7349a756ceb6118ea3,cristal,,128go ,smartphone huawei p30 pro,3999000.0, 8go ,MyTek, 8go  128go  cristal
+344,af10266692d9be3409eb0a1ed19532a36cd40709,silver,," 128 go, microsdjusqu'à512go",smartphone samsung galaxy a80,2599000.0, 8go ,MyTek," 8go   128 go, microsdjusqu'à512go silver"
+345,393779b31cf31be420bc7b6ab24b18bbdbdb5850,noir,," 128 go, microsdjusqu'à512go",smartphone samsung galaxy note,2689000.0, 8go ,MyTek," 8go   128 go, microsdjusqu'à512go noir"
+346,be37537e1611c85b771bf85e1575d548f2737df2,bleu,," 128 go, microsdjusqu'à512go",smartphone samsung galaxy s9,2699000.0, 8go ,MyTek," 8go   128 go, microsdjusqu'à512go bleu"
+347,526922ff67d69f4d0fbc0eba9bf824bb8a17eaf1,gold,," 128 go, microsdjusqu'à512go",smartphone samsung galaxy s9,2699000.0, 8go ,MyTek," 8go   128 go, microsdjusqu'à512go gold"
+348,fb2d3554cc5660c0171206e96bf2ce5d23ee1013,noir,," 128 go, microsdjusqu'à512go",smartphone samsung galaxy s9,2699000.0, 8go ,MyTek," 8go   128 go, microsdjusqu'à512go noir"
+349,9c7ffb7f117fa700d883542cc6116d6712386ebe,violet,," 128 go, microsdjusqu'à512go",smartphone samsung galaxy s9,2699000.0, 8go ,MyTek," 8go   128 go, microsdjusqu'à512go violet"
+350,d3633c29e7e7369717dd613db03e8178f4b25710,blanc,,128go ,smartphone samsung galaxy s10e,2899000.0, 6go ,MyTek, 6go  128go  blanc
+351,f5ac5b7774b47599a9ad5d4abcf2e21be0418190,noir,,128go ,smartphone samsung galaxy s10e,2899000.0, 6go ,MyTek, 6go  128go  noir
+352,7c20cbeca5f882d508c5495ed676c802d61b93c8,blanc,,128go ,smartphone samsung galaxy note,3129000.0,6go,MyTek,6go 128go  blanc
+353,2cdabaff38bd5c89dffc2c3c2200066cb6970d43,violet,,128go ,smartphone samsung galaxy note,3129000.0,6go,MyTek,6go 128go  violet
+354,707e8419a4fc13324f8dc8dc8d848b778c7982e2,bleu,,128go ,smartphone samsung galaxy note,3129000.0,6go,MyTek,6go 128go  bleu
+355,e0b54d74fb68bc031e76b3517e1f2a4160ddae6a,noir,,128go ,smartphone samsung galaxy note,3129000.0,6go,MyTek,6go 128go  noir
+356,6ce9c30a5eb7132353a2cafdc1f7726edce7add4,noir,,128go ,smartphone samsung galaxy a7,1299000.0,6go,MyTek,6go 128go  noir
+357,4a662d9c26b5c80d7acf49c9a2878d8e1b08ba86,corail,,128go ,smartphone samsung galaxy a70,1599000.0, 6go ,MyTek, 6go  128go  corail
+358,e3d41b451204b0a55b28e00c3dc986f361bed5e3,noir,,128go ,smartphone samsung galaxy a70,1599000.0, 6go ,MyTek, 6go  128go  noir
+359,c179ac66e07bc2e46b785c99d3e91dc0bd3feafd,blanc,,128go ,smartphone samsung galaxy a70,1599000.0, 6go ,MyTek, 6go  128go  blanc
+360,55d57e75e252d4157d4ab6b4592c6a987b84eb34,bleu,,128go ,smartphone samsung galaxy a9,1999000.0, 6go ,MyTek, 6go  128go  bleu
+361,1a403688a1cff103ae5823dafba3aa2ef44df910,noir,,128go ,smartphone samsung galaxy a9,1999000.0, 6go ,MyTek, 6go  128go  noir
+362,f71e0df1d09b501a10c6fad5285135c384fe4b6f,violet,,128go ,smartphone samsung galaxy s8,2289000.0, 6go ,MyTek, 6go  128go  violet
+363,4fc5ad13ded97b330caf6f9acdbcdd559f68e893,noir,,128go ,smartphone samsung galaxy s8,2299000.0, 6go ,MyTek, 6go  128go  noir
+364,6f3e0cc0278ca53005318fc4493b4bae0dc42ce1,grey,,128go ,smartphone samsung galaxy s9,2469000.0, 6go ,MyTek, 6go  128go  grey
+365,f875c631d6bec4a3f48be58ccb7751c34864d975,noir,,128go ,smartphone samsung galaxy s9,2469000.0, 6go ,MyTek, 6go  128go  noir
+366,8a93167cc4be506a644532fc99d674f298739141,violet,,128go ,smartphone samsung galaxy s9,2559000.0, 6go ,MyTek, 6go  128go  violet
+367,b4b7e71038d9d2d57dd71e117fd488c799050125,gold,,128go ,smartphone samsung galaxy a80,2599000.0, 8go ,MyTek, 8go  128go  gold
+368,cf02024d3a94eaa3c1e317d635633253c9be7167,rouge,,128go ,smartphone oppo a5s 3,549000.0, 3go ,MyTek, 3go  128go  rouge
+369,cc2feb2f4c4b93e16a82cd699b262dfd316f2cb5,rose,, 32 go ,smartphone nokia 4.2 32,579000.0, 3go ,MyTek, 3go   32 go  rose
+370,41ef3f5c526c3358aa164f23859b23d399a8bb57,noir,, 32 go ,smartphone nokia 4.2 32,579000.0, 3go ,MyTek, 3go   32 go  noir
+371,d0c6deee7d36189acdd6d453b251ebc68c25e0f6,steel,, 64go extensiblejusqu'à 128go ,smartphone nokia 3.2 2019,599000.0, 3go ,MyTek, 3go   64go extensiblejusqu'à 128go  steel
+372,dcb1978c422f37ad7af58301b16ce0cc1a3f5918,noir,, 64go extensiblejusqu'à 128go ,smartphone nokia 3.2 2019,599000.0, 3go ,MyTek, 3go   64go extensiblejusqu'à 128go  noir
+373,5a36e625f12b7ee8b3940086110282de9c320460,rouge,,  32go ,smartphone huawei y7 prime,599000.0, 3go ,MyTek, 3go    32go  rouge
+374,a0b62cf9319416ef68cd8971e03ca9115af1cae0,bleu,,  32go ,smartphone huawei y7 prime,599000.0, 3go ,MyTek, 3go    32go  bleu
+375,b7c2ada0c9e1a627bbe37ee3efcf9b193241ce10,noir,, 32go ,smartphone huawei y7 prime,599000.0, 3go ,MyTek, 3go   32go  noir
+376,16be758745fb0f84ef43419c03143a51e8b36c54,violet,, 32go ,smartphone oppo a3s 32go,599000.0, 3go ,MyTek, 3go   32go  violet
+377,1e453816fd93d90a8e4b1d93b7108ac8b688588b,rouge,," 32go ,microsdjusqu'à 512go",smartphone samsung galaxy j6,629000.0, 3go ,MyTek," 3go   32go ,microsdjusqu'à 512go rouge"
+378,dd65f5ca5b4f3d61feadc5d241e006fc11699df9,noir,," 32go ,microsdjusqu'à 512go",smartphone samsung galaxy j6,629000.0, 3go ,MyTek," 3go   32go ,microsdjusqu'à 512go noir"
+379,e27dd9d0ff0a1478038c182cd7dee88615e349a5,gris,," 32go ,microsdjusqu'à 512go",smartphone samsung galaxy j6,629000.0, 3go ,MyTek," 3go   32go ,microsdjusqu'à 512go gris"
+380,632ddee95a98a4ce4facb8fc919d23b613d6c5d9,rouge,, 8go extensiblejusqu'à 128go ,smartphone nokia 1 plus,329000.0, 1go ,MyTek, 1go   8go extensiblejusqu'à 128go  rouge
+381,5d95c1accdfe7bb8c3b2957bf61d81abbe4d73b5,bleu,, 16go ,smartphone huawei y5 lite,339000.0, 1go ,MyTek, 1go   16go  bleu
+382,26158d0c99b13dc2eee67b4f267476c1611b6886,noir,, 16go ,smartphone huawei y5 lite,339000.0, 1go ,MyTek, 1go   16go  noir
+383,de401cb484645ce4bb2ae19601d9175fe8c9e285,bleu,, 16go ,smartphone leagoo m9 3g,339000.0,2 go ,MyTek,2 go   16go  bleu
+384,1f15108dabbfc330c68533a98566925c716d1082,bleu,, 16go ,smartphone samsung a2 core,349000.0, 1go ,MyTek, 1go   16go  bleu
+385,f1c9902593d769818cf0f3cfbc5d26c0a89d03b4,gris,, 16go ,smartphone samsung a2 core,349000.0, 1go ,MyTek, 1go   16go  gris
+386,b84313e70c586343710b908296c3361e60a30ba5,rouge,, 16go ,smartphone samsung a2 core,349000.0, 1go ,MyTek, 1go   16go  rouge
+387,4c9621ee996ce16f5b9d755ac848561b3689900c,bleu,, 8go extensiblejusqu'à 128go ,smartphone nokia 2.1 4g,359000.0, 1go ,MyTek, 1go   8go extensiblejusqu'à 128go  bleu
+388,6a84eeb74e0e1ca2e79d7c2ae8c952d65cc9c5be,bleu,, 8go extensiblejusqu'à 128go ,smartphone nokia 2.1 4g,359000.0, 1go ,MyTek, 1go   8go extensiblejusqu'à 128go  bleu
+389,095f79dfba192f6c43daaea3b02f958334df9fef,silver,, 16go extensiblejusqu'à 128go ,smartphone nokia 2.2 2019,379000.0, 2go ,MyTek, 2go   16go extensiblejusqu'à 128go  silver
+390,5cf773efa3655a3afabbcbdda1a799affc9ee014,gold,, 16go ,smartphone huawei y5 prime,379000.0, 2go ,MyTek, 2go   16go  gold
+391,2a37f8ac7d61cd1dc6595f508bf8fa0fe49272e3,noir,, 16go extensiblejusqu'à 128go ,smartphone nokia 2.2 2019,379000.0, 2go ,MyTek, 2go   16go extensiblejusqu'à 128go  noir
+392,cffba25a979ff02da9103fe61fd68bcfc6c42956,noir,," 32 go, microsdjusqu'à512go",smartphone samsung galaxy a10,499000.0, 2go ,MyTek," 2go   32 go, microsdjusqu'à512go noir"
+393,89f83de1b9917420af21faa9791068569d1d1936,rouge,," 32 go, microsdjusqu'à512go",smartphone oppo a5s  ,499000.0, 2go ,MyTek," 2go   32 go, microsdjusqu'à512go rouge"
+394,108b36be24c5e1cf9b7e9b71113fbc57b328ca45,noir,," 32 go, microsdjusqu'à512go",smartphone oppo a5s  ,499000.0, 2go ,MyTek," 2go   32 go, microsdjusqu'à512go noir"
+395,748abcfdea91b348450496ebf402c26eb4d77b4e,noir,, 32go ,smartphone tecno camon 11,539000.0, 3go ,MyTek, 3go   32go  noir
+396,3278cf29e7f8bf09975a3c9669edab24a113c2b0,bleu,, 32go ,smartphone tecno camon 11,539000.0, 3go ,MyTek, 3go   32go  bleu
+397,2fb78f2abbc09b5f35164b2b48012496c975f075,blanc,, 32go ,smartphone nokia 3.1 plus,549000.0, 2go ,MyTek, 2go   32go  blanc
+398,48e0732e262fe0212db390e75ac3a71733caa846,noir,, 32go ,smartphone oppo a5s 3,549000.0, 3go ,MyTek, 3go   32go  noir
+399,a6bcba37f6be7f3270cbdcc7787c299b48f1dd66,gold,,  32go ,smartphone huawei y7 prime,549000.0, 3go ,MyTek, 3go    32go  gold
+400,3a3ee9a2dbfb64b6e218bc7ac3dde3c921a51f01,baltique,, 32 go ,smartphone nokia 3.1 plus,649000.0, 3go ,MyTek, 3go   32 go  baltique
+401,1bd5ad1e316edc8d1cbc8bb2b9e1c21ec0de72d1,rose,, 32 go ,smartphone samsung galaxy j4,549000.0, 2go ,MyTek, 2go   32 go  rose
+402,034659a71028a854a9aaf6982407228172941d88,noir,, 32 go ,smartphone leagoo s8 4g,549000.0,3 go ,MyTek,3 go   32 go  noir
+403,82627071b281348f20233209313f9533c6e55267,bleu,, 32 go ,smartphone leagoo s8 4g,549000.0,3 go ,MyTek,3 go   32 go  bleu
+404,ad5489e3651a64a466e791aa0e7e462bf94f32f9,bleu,,  32go ,smartphone huawei y7 prime,549000.0, 3go ,MyTek, 3go    32go  bleu
+405,4448fbaac4ce07cc07db35071331c1e05b984b99,blanc,, 32 go ,smartphone nokia 3.1 plus,649000.0, 3go ,MyTek, 3go   32 go  blanc
+406,a1e8be5df42ba7c341011333e4463271696f00ec,bleu,, 32 go ,smartphone nokia 3.1 plus,649000.0, 3go ,MyTek, 3go   32 go  bleu
+407,542a48335813e6017dccd14c3e07364b053f2336,bleu,, 32 go ,smartphone samsung galaxy a20,689000.0, 3go ,MyTek, 3go   32 go  bleu
+408,360baaf7d8f01764b302caab34b8b619ca9206a6,noir,, 32 go ,smartphone samsung galaxy a20,689000.0, 3go ,MyTek, 3go   32 go  noir
+409,da3fd8f900359e783fa26fa54e017494792ea064,rouge,, 32 go ,smartphone samsung galaxy a20,689000.0, 3go ,MyTek, 3go   32 go  rouge
+410,53c92f65b3faa028ad626d6d54fe665e51871b23,noir,, 32 go ,smartphone huawei y9 2019,799000.0, 4go ,MyTek, 4go   32 go  noir
+411,ed0f7a5c17c255d8d9ffcea165d189464151343d,bleu,, 32 go ,smartphone huawei y9 2019,799000.0, 4go ,MyTek, 4go   32 go  bleu
+412,cecbf9c9c5f01d46c1e01146ed490d9769e69e2c,violet,, 32 go ,smartphone samsung galaxy j8,819000.0, 3go ,MyTek, 3go   32 go  violet
+413,63a84d301c9fd832d8ad4ea2615bf9d0b5d2e07b,noir,, 32 go ,smartphone samsung galaxy j8,819000.0, 3go ,MyTek, 3go   32 go  noir
+414,00f468ba6ce7017844ea45b655e1a936bbc69be8,noir,, 32 go ,smartphone samsung galaxy j8,819000.0, 3go ,MyTek, 3go   32 go  noir
+415,825960421b22cb4278a9a68a9586e90f5069aa89,gold,, 32 go ,smartphone samsung galaxy j8,819000.0, 3go ,MyTek, 3go   32 go  gold
+416,18464c6035b17d2402217c0a9a778d32ac545c3b,vert,, 32 go ,smartphone huawei y9 prime,849000.0, 4go ,MyTek, 4go   32 go  vert
+417,33c9ccc3846879eb6dba9402fa17cd1e1574c918,bleu,, 32 go ,smartphone oppo f9  ,849000.0, 4go ,MyTek, 4go   32 go  bleu
+418,87b38a50ae4cef1ba0c9a50b1d7172f96604b213,bleu,, 32 go ,smartphone huawei y9 prime,849000.0, 4go ,MyTek, 4go   32 go  bleu
+419,2894ae2bb21cb6826b37c3ead448a0f007d91e0b,noir,, 32 go ,smartphone huawei y9 prime,849000.0, 4go ,MyTek, 4go   32 go  noir
+420,da3b1fa96c00f789c1fb26a733bea0c79b7d520d,rouge,, 32 go ,smartphone oppo f9  ,849000.0, 4go ,MyTek, 4go   32 go  rouge
+421,15f6e761339dbed76b44e577ef8c57e93e561926,blanc,, 32 go ,smartphone samsung galaxy a30,865000.0, 4go ,MyTek, 4go   32 go  blanc
+422,b79b86fba397a0ded3d684e6e6cd020d456ec4c1,bleu,, 32 go ,smartphone samsung galaxy a30,865000.0, 4go ,MyTek, 4go   32 go  bleu
+423,b85bea8b82b954ecafd9e9bdda2fc13b18090533,noir,, 32 go ,smartphone samsung galaxy a30,865000.0, 4go ,MyTek, 4go   32 go  noir
+424,b8b928e5eb1a850702607d218b4e093f7387ec8d,white,, 32 go ,smartphone oppo f11  ,899000.0, 6go ,MyTek, 6go   32 go  white
+425,e9454483c7fd5fa8530091819c7dd06ae031a848,vert,, 32 go ,smartphone oppo f11  ,899000.0, 6go ,MyTek, 6go   32 go  vert
+426,77f5173f447ad74006ba77a2a2106533aa3ccfcd,purple,, 32 go ,smartphone oppo f11  ,899000.0, 6go ,MyTek, 6go   32 go  purple
+427,5d97fbac0597d253df5a99f3754e7f51d78a2804,gold,, 32go extensiblejusqu'à 256go,smartphone samsung galaxy j7,949000.0," 3go, stockage: 32go extensiblejusqu'à 256go",MyTek," 3go, stockage: 32go extensiblejusqu'à 256go  32go extensiblejusqu'à 256go gold"
+428,cd464b292bc94708dd9f199b07c3dad3977442c4,steel,, 16go extensiblejusqu'à 128go ,smartphone nokia 2.2 2019,379000.0, 2go ,MyTek, 2go   16go extensiblejusqu'à 128go  steel
+429,2c6428365023e8310b22e521a3be57d369ab0d23,bleu,, 32go,smartphone tecno pop 2,379000.0, 2g ,MyTek, 2g   32go bleu
+430,4efd5468938a810cd491b4cbde0a5eebf527884e,noir,, 32go,smartphone tecno pop 2,379000.0, 2g ,MyTek, 2g   32go noir
+431,c5fefff495bcdb9f670125acffb28fbd29b0d5b7,noir,, 32go,smartphone oppo a1k  ,399000.0, 2go ,MyTek, 2go   32go noir
+432,2169ae7d464e2e8b5fb8d3ceb448a5a22a846a92,bleu,, 32go ,smartphone huawei y5 2019,399000.0, 2go ,MyTek, 2go   32go  bleu
+433,b4988f2aa4cc8c153786aa555b8ce4acff661bb4,rouge,, 32go ,smartphone oppo a1k  ,399000.0, 2go ,MyTek, 2go   32go  rouge
+434,b071c39758bd5334ec8c2784edee905d6ecc2e90,noir,, 32go ,smartphone huawei y5 2019,399000.0, 2go ,MyTek, 2go   32go  noir
+435,253fb38a3cf2070cc06eb412f2b74ab3b8e17a6e,bleu,,16 go,smartphone leagoo m11  ,399000.0,2go ,MyTek,2go  16 go bleu
+436,23a167fc2895cd61a05de6b015e9f0feab6c1056,gold,, 16go extensiblejusqu'à128go,smartphone xiaomi redmi 5a,399000.0, 2go ,MyTek, 2go   16go extensiblejusqu'à128go gold
+437,5e43fc01c5e276a889d39061b9ad76edd1dd3590,gold,,16 go,smartphone leagoo m11  ,399000.0,2go ,MyTek,2go  16 go gold
+438,9e3fcd2d6873ffacef8b16e74a2266067de4c302,noir,, 16go ,smartphone leagoo m9 pro,399000.0, 2go ,MyTek, 2go   16go  noir
+439,a36630e5dc5c5d4c485bed38b527898535967119,bleu,, 16go ,smartphone leagoo m9 pro,399000.0, 2go ,MyTek, 2go   16go  bleu
+440,9aee4b25c0ddc4244911fe9ddc58cee96cf838bc,noir,, 16go ,smartphone samsung galaxy a6,949000.0, 2go ,MyTek, 2go   16go  noir
+441,ac857b8c079cd915b0d0d18e3a896009540a297b,bleu,, 16go ,smartphone samsung galaxy a6,949000.0, 2go ,MyTek, 2go   16go  bleu
+442,5d4733b3732928da952541862ac4523b5637115f,bleu,, 128go ,smartphone huawei p30 lite,999000.0, 4go ,MyTek, 4go   128go  bleu
+443,760e1db9ccbe1a84e47c17d987404af7f090fc83,blanc,, 128go ,smartphone huawei p30 lite,999000.0, 4go ,MyTek, 4go   128go  blanc
+444,34ddb9a83d1ed79df865979acadfb9385612ca81,noir,, 128go ,smartphone huawei p30 lite,999000.0, 4go ,MyTek, 4go   128go  noir
+445,9c2d4b92eb7f1a8732cba7f70749688ebe6a086e,noir,, 128go ,smartphone huawei nova 3i,999000.0, 4go ,MyTek, 4go   128go  noir
+446,06151835e88f450d82351f76417e48d2150d0a29,bleu,,64 go ,smartphone samsung a6 plus,1139000.0, 4 go ,MyTek, 4 go  64 go  bleu
+447,2d14993cae663c2f8fcf87aaf5f16d438d11276f,noir,,64 go ,smartphone oppo f11 pro,1149000.0, 6go ,MyTek, 6go  64 go  noir
+448,a7ffcbc828cf574dd3d44da9156dbda62ef59bb7,vert,,64 go ,smartphone oppo f11 pro,1149000.0, 6go ,MyTek, 6go  64 go  vert
+449,a9be3a183a044f37d48ff9867d88abbbb812927a,blanc,, 128go ,smartphone samsung galaxy a50,1169000.0, 4go ,MyTek, 4go   128go  blanc
+450,a20cd64fe62fc9d3c7fe6c63a95ccb3fa807d65f,bleu,,128go ,smartphone samsung galaxy a50,1169000.0, 4go ,MyTek, 4go  128go  bleu
+451,4dba1695b92f51b557bf85def2dd84cec13363ee,noir,,128go ,smartphone samsung galaxy a50,1169000.0, 4go ,MyTek, 4go  128go  noir
+452,146bfe8c67cf7dbca4129b2718b83065880e0172,spacegrey,, 32 go,apple iphone 6s 32go,1559000.0, 2go ,MyTek, 2go   32 go spacegrey
+453,16b13f3ed5c35152d76abe175721c99f6d3caad0,rose,, 32 go,apple iphone 7 32go,2099000.0, 2go ,MyTek, 2go   32 go rose
+454,f16a473d2a5905acab4bfa6aa2df26a55c7e5042,noir,,32go ,apple iphone 7 32,2099000.0, 2go ,MyTek, 2go  32go  noir
+455,ec5049748aa5e910f8b383c1b8ea9e3651916b75,gold,,32go ,apple iphone 7 32,2099000.0, 2go ,MyTek, 2go  32go  gold
+456,13985d390a719e87578103b061d3ff27be6ae86b,rose,, 128 go ,apple iphone 7 128go,2359000.0, 2go ,MyTek, 2go   128 go  rose
+457,652389fa6f50216f88f49719bd4f759235c5f6f2,gold,, 128 go ,apple iphone 7 128go,2359000.0, 2go,MyTek, 2go  128 go  gold
+458,c6922333e9874794321a4bf69c015d7106873023,silver,, 128 go ,apple iphone 7 128go,2459000.0, 2go ,MyTek, 2go   128 go  silver
+459,abc6537c5775d12f2b8f1a4a432b24dd0911dd6a,noir,, 128 go ,apple iphone 7 128go,2499000.0, 2go,MyTek, 2go  128 go  noir
+460,f03dc48de8f9b5282cd21e248ce7b788b76fe99f,noir,, 32go,apple iphone 7 plus,2599000.0, 3go,MyTek, 3go  32go noir
+461,197f546c35f8d9805d69d274f7be77c41b7c761e,gold,, 32go,apple iphone 7 plus,2655000.0, 3go,MyTek, 3go  32go gold
+462,e7a329967f11e7502ce296a7231fb74b1cde3778,gold,, 32go,apple iphone 7 plus,2655000.0, 3go,MyTek, 3go  32go gold
+463,c3426993ff57f6ea0a6c1f33f64625afc3c4b682,silver,, 32go,apple iphone 7 plus,2655000.0, 3go ,MyTek, 3go   32go silver
+464,4273d3ff225be34a42de01b88f4ae712bd44bf23,silver,, 32go,apple iphone x 64go,3599000.0, 3go ,MyTek, 3go   32go silver
+465,c0f84994b11260d0b5dc0d538e9e445f337b05b9,noir,, 128go ,apple iphone xr 128go,3999000.0, 3go ,MyTek, 3go   128go  noir
+466,7c2586c357beafe0b2c2a78e07906d511ea9d64b,gold,, 64go ,apple iphone xs 64go,4199000.0, 4go ,MyTek, 4go   64go  gold
+467,f12d95d2f7dae16150e430f5b14588ae2fe1ab52,silver,, 64go ,apple iphone xs 64go,4199000.0, 4go ,MyTek, 4go   64go  silver
+468,20df4de11582f395a8bf8ba1bb2c8b7e78294716,grey,, 64go ,apple iphone xs 64go,4199000.0, 4go ,MyTek, 4go   64go  grey
+469,5a54279e5b6412ee35a6cc9544fdb8bd01eb0f2b,silver,, 64go ,apple iphone x 256go,4219000.0, 4go ,MyTek, 4go   64go  silver
+470,5d521f35c5df677b287fea95c3644d33145326ed,spacegrey,, 64go ,apple iphone x 256go,4219000.0, 4go ,MyTek, 4go   64go  spacegrey
+471,0706464f23d3e20c2446b4addb0a08984c33e493,noir,, 64go ,apple iphone x 256go,4219000.0, 4go ,MyTek, 4go   64go  noir
+472,19dee273fddf3c58a41db19786a0a7476ac6c231,grey,, 64go ,apple iphone xs max,5299000.0, 4go ,MyTek, 4go   64go  grey
+473,48f743367f321ccb5bee34c9ccb0f44baa971089,black,, 32go,apple iphone 7 plus,2655000.0, 3go,MyTek, 3go  32go black
+474,57cce0e484671b6de93699db56a7e857448fc111,rouge,, 32go,apple iphone 8 64go,2659000.0, 2go,MyTek, 2go  32go rouge
+475,f9c6cf23c852fcbb38ad6c413fac6e6b8ab46d94,spacegrey,, 32go,apple iphone 8 64go,2659000.0, 2go,MyTek, 2go  32go spacegrey
+476,f0157b76c42710b74eb9adfe03044e462a6c3d13,silver,, 32go,apple iphone 8 64go,2659000.0, 2go,MyTek, 2go  32go silver
+477,9d6b69f1aad538f33217401828a7f73b407e4e7f,gold,, 32go,apple iphone 8 64go,2659000.0, 2go,MyTek, 2go  32go gold
+478,03b149bfaed7aae5aa002b2433c8c7e79c9db217,rouge,, 32go,apple iphone 7 plus,2699000.0, 2go,MyTek, 2go  32go rouge
+479,2eeb546362e2ccf830714922a6dc23e5f79fd79b,noir,, 32go,iphone 7 plus 128go,2699000.0, 2go,MyTek, 2go  32go noir
+480,973f3444f0846644046d2f98f29291bc165eb396,gold,, 32go,apple iphone 7 plus,2699000.0, 2go,MyTek, 2go  32go gold
+481,78765d5fdec11ca9f91e9260f9baade10af7d79f,rouge,, 32go,apple iphone 8 256go,2999000.0, 2go,MyTek, 2go  32go rouge
+482,60a7df309717851e81250654d85a231a405c3874,gold,, 32go,apple iphone 8 256go,2999000.0, 2go,MyTek, 2go  32go gold
+483,b8d2148a970279efda6fac0c53484ecec1246d68,spacegrey,, 32go,apple iphone 8 256go,2999000.0, 2go,MyTek, 2go  32go spacegrey
+484,378b5f83ede5a501b91ec5102eb1515c63029e53,gold,, 32go,apple iphone 8 plus,3089000.0, 2go,MyTek, 2go  32go gold
+485,81892848f8ae174db116f572824315ffa3667199,spacegrey,, 32go,apple iphone 8 plus,3089000.0, 2go,MyTek, 2go  32go spacegrey
+486,87ad63eb4b04af3ed1dd0a8484dfaad114618c80,rouge,, 32go,apple iphone 8 plus,3089000.0, 2go,MyTek, 2go  32go rouge
+487,153748aade2fb6229524f0a375ef10625c34892a,silver,, 32go,apple iphone 8 plus,3089000.0, 2go,MyTek, 2go  32go silver
+488,30cbf542db383fde383949eadb9d49fdd02cd695,corail,, 64go ,apple iphone xr 64go,3499000.0, 3go ,MyTek, 3go   64go  corail
+489,cedaa06a7df27d20b4b95eb7de8f0d7b6f78ef6f,blanc,, 64go ,apple iphone xr 64go,3499000.0, 3go ,MyTek, 3go   64go  blanc
+490,2bc77ce6575b0bfde13be596da6d386d6d3715ed,bleu,, 64go ,apple iphone xr 64go,3499000.0, 3go ,MyTek, 3go   64go  bleu
+491,f83f943682b5c6d01d9bf07107b1d15a2eaa3ba1,rouge,, 64go ,apple iphone xr 64go,3499000.0, 3go ,MyTek, 3go   64go  rouge
+492,b868f7b130a292b4a62c00bbeb5b6a13996590d7,noir,, 64go ,apple iphone xr 64go,3499000.0, 3go ,MyTek, 3go   64go  noir
+493,2941111dbd7ccbae1e7fd155403e96cf46ea9b29,silver,, 256 go ,apple iphone 8 plus,3579000.0,3 go ,MyTek,3 go   256 go  silver
+494,cefa5ece1f9ac826fb3189208ad3911c20f7f8d3,grey,, 256 go ,apple iphone 8 plus,3579000.0,3 go ,MyTek,3 go   256 go  grey
+495,5543d26535d47ea4fa4ddac63a04f4f20d026cd0,spacegrey,, 256 go ,apple iphone x 64go,3599000.0,3 go ,MyTek,3 go   256 go  spacegrey
+496,cece38e6b1225785fdf6bed71fdb323a038af39f,gold,, 256 go ,apple iphone 8 plus,3599000.0,3 go ,MyTek,3 go   256 go  gold
+497,b7465c778c7351fa8a945d03ba84ba89e127f43e,rouge,, 8go ,tablette supertab a7 8go,129000.0, 512mo ,MyTek, 512mo   8go  rouge
+498,6b1a3a0f32718ed19e209f812da9ed352ba95d54,bleu,, 8go ,tablette supertab a7 8go,129000.0, 512mo ,MyTek, 512mo   8go  bleu
+499,4348b93ed4d385ecf7995a66e3addd96573bc39d,blanc,, 8go ,tablette logicom tab72 7\ ,135000.0, 512mo ,MyTek, 512mo   8go  blanc
+500,ceeeca7672c8ebca6f5f539de22db23e1c55bc26,noir,, 8go ,tablette logicom tab72 7\ ,145000.0, 512mo ,MyTek, 512mo   8go  noir
+501,99c927d0a1b53521bb7afab6122b2fffba29c496,rose,, 8go ,tablette supertab k7 kids,159000.0, 512mo ,MyTek, 512mo   8go  rose
+502,6678fa4390bbde4dac6bf4e892bf9ddc3542105b,bleu,, 8go ,tablette supertab k7 kids,159000.0, 1go ,MyTek, 1go   8go  bleu
+503,13ea2790cffb95e54a3a4b995119a2a5c9c6351a,bleu,, 8go ,tablette supertab k7 kids,159000.0, 1go ,MyTek, 1go   8go  bleu
+504,316a4a6817e50b41ec094b690c390a4f42968786,violet,, 8go ,tablette supertab k7 kids,159000.0, 1go ,MyTek, 1go   8go  violet
+505,501ff3a777fbd57bf1ac79b0ab15c4b9a9312ea0,vert,, 8go ,tablette supertab k7 kids,159000.0, 1go ,MyTek, 1go   8go  vert
+506,7bf87a27a7477ab32ce85573a5fe76e3342f4e8c,rouge,, 8go ,tablette super tab s7g,179000.0, 1go ,MyTek, 1go   8go  rouge
+507,7b04319d6b9aa517caa596603442372ba53979a6,purple,, 8go ,tablette super tab s7g,179000.0, 1go ,MyTek, 1go   8go  purple
+508,b0428e0149d9c1e2e868580ca7b07a9cc166a753,gris,, 8go ,tablette super tab s7g,179000.0, 1go ,MyTek, 1go   8go  gris
+509,82f4d248d44f6a7aa647bc65be0c2120951c5a70,noir,, 8go,tablette samsung galaxy tab,459000.0,"1,5 go",MyTek,"1,5 go  8go noir"
+510,149f92ee53fc98707db900e0cd4bec3eab11ea5d,,, 16go ,tablette lenovo tab4 tb x304l,549000.0,2 golpddr3 ,MyTek,2 golpddr3   16go  
+511,330fafc4b5577f5abd8efbd023673e4218be5452,noir,, 16go,tablette lenovo tabe10 tb x104x,609000.0, 2 go ,MyTek, 2 go   16go noir
+512,14eec7e828ae8b66049716e6dd4e1aa1a3bdc4b1,gold,, 16go ,tablette huawei mediapad t3,619000.0,2go,MyTek,2go  16go  gold
+513,bfc18f680da8a73c5246ca59239a086321608488,,, 16go,tablette lenovo yoga tab,819000.0,2go ,MyTek,2go   16go 
+514,d7a30759b4e8319357b3ea579ad7903b858a9153,bleu,, 8go ,tablette super tab s7g,179000.0, 1go ,MyTek, 1go   8go  bleu
+515,4be03f6951c16e76a393c629bae12a611a561ccb,noir,, 8go ,tablette logicom tab link,189000.0, 1go ,MyTek, 1go   8go  noir
+516,f87d8c157f9df5013db380bd674dd0964947f62a,silver,,16go ,tablette versus v730 7\ ,199000.0, 1go ,MyTek, 1go  16go  silver
+517,82603709bd40e0702b8124b6d2d7f9271b6f2f7b,gold,,16go ,tablette versus v730 7\ ,199000.0, 1go ,MyTek, 1go  16go  gold
+518,b7cc592c9434c41bbddfcbb9765ec9b66c6eb8c5,gold,, 16go ,tablette leagoo leapad x5,199000.0, 1 go ,MyTek, 1 go   16go  gold
+519,71a6c97f34ba4f2aef671fe58528ed08ee2cb75c,noir,, 16go ,tablette leagoo leapad x5,199000.0, 1 go ,MyTek, 1 go   16go  noir
+520,d90bbba6099bd4746c182861aab52b1a9cf04b58,blanc,, 8go ,tablette logicom 105 10\ ,229000.0, 1go ,MyTek, 1go   8go  blanc
+521,35e2148f2b802703c16e30b5dbe39adae400c73f,brown,, 16go (extensiblejusqu'à 256go àl'aided'une cartesd) ,tablette tecno droidpad 701,249000.0, 1go ,MyTek, 1go   16go (extensiblejusqu'à 256go àl'aided'une cartesd)  brown
+522,74b7c0d9ea7406baa512ae0900813d0a3c8d0b3d,gris,, 16go (extensiblejusqu'à 256go àl'aided'une cartesd) ,tablette tecno droidpad 701,249000.0, 1go ,MyTek, 1go   16go (extensiblejusqu'à 256go àl'aided'une cartesd)  gris
+523,27a5556ccf37fbb58477bd7469c6cfcb8f9e8547,silver,,16go,tablette versus 904q 9\ ,299000.0, 1go ,MyTek, 1go  16go silver
+524,6c7e207745cb75860ab07f9d918297367a7d6112,silver,, 8go ,tablette super tab keen,299000.0, 1go ,MyTek, 1go   8go  silver
+525,ceb91a186798e00feac07782d7e085b1330cd454,grey,, 16go,tablette huawei mediapad t3,319000.0,1go,MyTek,1go  16go grey
+526,3e5e4f06058978b4af0d5544efde2eb5bb3bbbf9,,,16go, huawei   tablette t3   9.6\  4g   ags l09 ,520.0,2 go,Mega.tn,2 go 16go 
+527,6acaf858a7d1beeaa21cdb4656550f347aa75f4c,,,16go, logicom   tablette tactile tab 72 8 go wifi ,129.0,2 go,Mega.tn,2 go 16go 
+528,beaa685961ae61d738228630f734e729e33f1096,,,8 goextensiblejusqu'à32go, supertab   tablette s7g 3g ,160.0, 1go,Mega.tn, 1go 8 goextensiblejusqu'à32go 
+529,d40a5bf8a7fa4569d064767fc80a402b2d2cd042,,, 8go, supertab   tablette k7 kids 7\  wifi ,159.0, 1go,Mega.tn, 1go  8go 
+530,8511183ca981dfa5812b1b098e4abbb7efba685e,gold,,8go, versus   tablette v730 7\  3g ,179.0,1go,Mega.tn,1go 8go gold
+531,370e71caa7da360cedb9416fe3c66b6a4ca4ef29, noir ,, 8go , logicom   tablette tab link 71 3g ,189.0, 1go ,Mega.tn, 1go   8go   noir 
+532,506c6d6ea9a02083dd3a9a93527217273bbed5bc, gold,, 16go , leagoo   tablette leapad x5 7\  3g ,199.0, 1 go ,Mega.tn, 1 go   16go   gold
+533,1d2d32838e846fcc2b6df9ad47eae924d2ae49bb,,,16go+portmicrosdjusqu’à200go, samsung   tablette galaxy tab a 2016 sm t585 10 pouces ,829.0,2go,Mega.tn,2go 16go+portmicrosdjusqu’à200go 
+534,db3c0383ce34ae81606894ab7ded41d662b0dac9,,,  16go, huawei   tablette mediapad t3 7\  wifi ,284.0,1go,Mega.tn,1go   16go 
+535,95906cf06f3a900c7f9821472c428b956226ea5e,,,16go, huawei   tablette mediapad t2 7.0\    4g bgo dl09 ,333.0,1go,Mega.tn,1go 16go 
+536,1e8d58a5c43579b7b595c4a75f4370a51d227348, slateblack   ,, 16go, lenovo   tablette yoga tab3 10\    4g za0k0023eg ,632.0,2go ,Mega.tn,2go   16go  slateblack   
+537,60ed302f3efcb043b76421cfab7c0f59f2e1ad54,,, 16go, apple   ipad 9.7\  32 go wifi mp1j2nf/a ,1759.0,2go ,Mega.tn,2go   16go 
+538,bbe4a7609b1712518e46a4eeafc1880ddfc0da9b,,, 16go, apple   ipad mini 64g cellular ,1240.0,2go ,Mega.tn,2go   16go 
+539,83f0382af128f57d07dcf9ea2a930d318b1db9c2,,,16go, apple   ipad mini ,769.0,2go ,Mega.tn,2go  16go 
+540,4de3da766bfab409549d6ce388039f18f68689ef, noir ,, 8go extensiblejusqu'à 64go viamicrocartesd/sdhc , vega   tablette bravio 7\  4g ,167.0, 1 go,Mega.tn, 1 go  8go extensiblejusqu'à 64go viamicrocartesd/sdhc   noir 
+541,0ca5d70a8d3ca1ae54b806c67ad3abe881898f99,,,16go, versus   tablette 904q 9\  3g ,299.0, 1go ,Mega.tn, 1go  16go 
+542,7ba731935b339294ac9a2811ea79a794cc3492de,,,16go, apple   ipad mini 32g cellular ,999.0, 1go ,Mega.tn, 1go  16go 
+543,204a7839fbd2f175aad476d13036737d78097417,,,16go, lenovo   tablette tab3 710i / 7\  / 3g   za310020eg ,259.0,1go,Mega.tn,1go 16go 
+544,5cde5e57352db23c963fcfd9834f09bf56d42808, noir,, 16go , lenovo   tablette tab4 tb x304l 2go 16go 4g   za2k0071eg ,549.0,2 golpddr3 ,Mega.tn,2 golpddr3   16go   noir
+545,1bb88883812310b5647786abdaad9e9c045200f5,blanc,,8go, logicom   tablette la tab 105 / 10\  / wifi ,229.0,1go,Mega.tn,1go 8go blanc
+546,ff53328042a2b9e21a73caedfda03989953555a5,darkbrown ,, 16go (extensiblejusqu'à 256go àl'aided'une cartesd) , tecno mobile   tablette droidpad 701 7\  16 go ,259.0, 1go ,Mega.tn, 1go   16go (extensiblejusqu'à 256go àl'aided'une cartesd)  darkbrown 
+547,8452e75d976552c0323047a953c6248fbc4dca9f,,,interne 8go, supertab   tablette a7 8go wifi ,129.0, 512mo,Mega.tn, 512mo interne 8go 
+548,1e1b4ab442ae0b7784b338018223ae11a4110a30,,, 16go, lenovo   tablette tab3 730x 7\  4g ,299.0,1go,Mega.tn,1go  16go 
+549,a594bb718831f50a1958d7044b55f122862ff485,,, 16go, supertab   tablette r10 3g ,299.0, 1go,Mega.tn, 1go  16go 
+550,e95cfdda3b779ab859abac2405d7fae032975b63,,,8go.processeurquad, samsung   tablette galaxy tab 4 t231 ,449.0, 1go,Mega.tn, 1go 8go.processeurquad 
+551,bb755cf8a961263eb4333da5bd499e8c67e425fb,,,8go.processeurquad, samsung   tablette galaxy tab s3 10\  sm t825 ,1899.0, 1go,Mega.tn, 1go 8go.processeurquad 
+552,392ee4ea41ee44e7c7457c254f5e2d0ac146245e,,, 8go extensiblejusqu'à 32go viamicrocartesd/sdhc , vega   tablette optima 77 7 3g ,159.0, 1 go,Mega.tn, 1 go  8go extensiblejusqu'à 32go viamicrocartesd/sdhc  
+553,3b25fd4c485b4f9eaa582120fc729b1ea09034ee,,,8go, versus   tablette v pad mini wifi v714 ,80.0, 512mo ,Mega.tn, 512mo  8go 
+554,26729574226edd78e02d06b31c8de254ca8813a3,brown ,,  32go , huawei   smartphone y6 prime 2019 4g ,479.0, 2go ,Mega.tn, 2go    32go  brown 
+555,81fdd6219e508139230379e7d8bc5ffb640cbce9,,,  32go , huawei   smartphone y7 prime 2019 4g ,599.0, 3go ,Mega.tn, 3go    32go  
+556,0f8ef08536850284de5390a4ce2bfe29cd7e3df4,,,128go, samsung   smartphone galaxy a50 ,1169.0,4go,Mega.tn,4go 128go 
+557,fbe3205f540bc6a0a8aa3fc0845d3e8458055c6c,,,64go, samsung   smartphone galaxy a30 ,859.0,4go,Mega.tn,4go 64go 
+558,cf1631167fff4d7988c34137c565ec0c7af050b3, bleu ,, 32go , huawei   smartphone y5 prime 2019 ,395.0, 2go ,Mega.tn, 2go   32go   bleu 
+559,e16ffde5951c425f0189001e1f680ad06c1e4105,,, 128go , huawei   smartphone p30 lite ,999.0, 4go ,Mega.tn, 4go   128go  
+560,dfcd4b4594500b9136d6b60dd5b3388027fbdabd,bleu ,, 32 go, samsung   smartphone galaxy a10 (sm a105) ,489.0, 2go ,Mega.tn, 2go   32 go bleu 
+561,d605027841cdda1818fc1f9465aad2505ead74ab,,, 32 go, huawei   smartphone y9 2019 4g double sim ,799.0, 2go ,Mega.tn, 2go   32 go 
+562,2073e00f792d63265248aa7f448285201a3ea858,bleu ,, 32 go, samsung   smartphone galaxy a20 (sm a205) ,689.0, 3go ,Mega.tn, 3go   32 go bleu 
+563,73f02caf3664d677fb7c78eba18d909355f7eb2a,,, 128go extensiblejusqu'à 1to , huawei   smartphone y9 prime 2019 ,849.0, 4go ,Mega.tn, 4go   128go extensiblejusqu'à 1to  
+564,7e8c1336a0d1faf7baec28733c62dd2ec9fef0d0,,, 8 go, samsung   galaxy a2 core ,339.0, 1 go ,Mega.tn, 1 go   8 go 
+565,f72b2c243c05c0874549c965eb1dc0491be9187a,,,128go, huawei   smartphone nova 3i   4g ,899.0,4go,Mega.tn,4go 128go 
+566,0622de492431b183d5bf8259dcc74b260511a28e,,,32go, samsung   smartphone galaxy j6 plus 4g ,629.0,3go,Mega.tn,3go 32go 
+567,436d791e942ce0755008327a9fac8093f744cbc9,,,8go, samsung   smartphone galaxy grand prime plus 4g ,329.0,1.5go,Mega.tn,1.5go 8go 
+568,d48c2f5d706c2e1bc0204e42d44bc25ce8aefb67,,, 16go , samsung   smartphone galaxy j5 pro 2017 ,599.0, 2go,Mega.tn, 2go  16go  
+569,21cadf76a1e63bf4fcc0e514fabfec665c793753,,,16go, samsung   smartphone galaxy j3 pro 4g ,449.0,2go,Mega.tn,2go 16go 
+570,f8bc5c68eb1c7d1bbb23bccdaf89144c586e01d9,,, 128goextensiblejusqu'à400goviamicrosdxc, samsung   smartphone galaxy note 9 ,3129.0,6go,Mega.tn,6go  128goextensiblejusqu'à400goviamicrosdxc 
+571,9c96bebacf053d8ed8675b76d41af917927b05ec,noir ,, 8go , huawei   smartphone y5 lite 2018 4g ,339.0, 1go ,Mega.tn, 1go   8go  noir 
+572,6501c19ef3badddaddf97f1b7c7f5fc1d6e22789,,, 8go , samsung   smartphone galaxy s10 plus ,3499.0, 1go ,Mega.tn, 1go   8go  
+573,c04e0ea4614b439695ee15015e327d526562b44a,,, 64go, samsung   smartphone galaxy s9 plus ,2699.0,  6go lpddr4,Mega.tn,  6go lpddr4  64go 
+574,f0963cc08cbce926fcd8a87a18195f3f1d739282,,,  32go , huawei   smartphone y7 prime 2018 4g ,549.0, 3go ,Mega.tn, 3go    32go  
+575,b59b4ccb2adf07785ef6e2b5609e736698b3c528,,, 16go , huawei   smartphone y6 prime 2018 4g ,459.0, 2go ,Mega.tn, 2go   16go  
+576,63ef1fd5a997c5e16dc5b1c5321a20036c1b2dab, gold ,, 32 go, samsung   smartphone galaxy j4 plus 4g ,549.0, 2go ,Mega.tn, 2go   32 go  gold 
+577,dafb49d27952b4e2ac91895e2d103cc401e586bd,,, 32 go, samsung   smartphone galaxy s10 ,3449.0, 2go ,Mega.tn, 2go   32 go 
+578,97c1dc9bc952d8007aecb5a5204b1c47f40956f2,,, 64go, samsung   smartphone galaxy note 8 ,2689.0, 6go ,Mega.tn, 6go   64go 
+579,f295028eabeb1ae577e14c92db64346791ad80c6,,, 16go extensiblejusqu'à 128go , nokia   smartphone nokia 3 4g nena ,379.0, 2go ,Mega.tn, 2go   16go extensiblejusqu'à 128go  
+580,e6d4c043f0a3c1bd8b016109c96d6ab0680d0112,,, 16go , huawei   smartphone y5 prime 2018 4g ,375.0, 2go ,Mega.tn, 2go   16go  
+581,0dfd1156148658bde4926b32233b99cff73e2423,,, 8go extensiblejusqu'à 256go , samsung   smartphone galaxy j2 core 4g ,349.0, 1go ,Mega.tn, 1go   8go extensiblejusqu'à 256go  
+582,379ca29680f8db5d9bd4a55e05b3933b9e8a4054,,, 128go water&dustrésistantetfingerscanner, samsung   smartphone galaxy a9 2018 6g ram 128go ,1849.0,6go,Mega.tn,6go  128go water&dustrésistantetfingerscanner 
+583,724875bfa854b37aa8bcc3e6be6a44be20b7d91a,noir ,,128go , samsung   smartphone galaxy s10e noir ,2899.0, 6go ,Mega.tn, 6go  128go  noir 
+584,9ae2406e4c4b99cf7fd03ee9f69677b8347cd700,noir,, 4go, téléphone portable evertek v5 nano ,145000.0,512mo,tunisiaNet,512mo  4go noir
+585,855473f2de419254f14900d2334c1b8785ac30f1,gold,, 4go, téléphone portable evertek v5 nano ,145000.0,512mo,tunisiaNet,512mo  4go gold
+586,a3d4e9379543fab75d08399ad8c2864dda40cb0e,bleu,, 8go, téléphone portable evertek v5 ,225000.0,1go,tunisiaNet,1go  8go bleu
+587,3cac2063185dc222dc185c3a57fdd35fdba52cef,gold,, 8go, téléphone portable evertek v5 ,225000.0,1go,tunisiaNet,1go  8go gold
+588,a7611c7478a550b124fac4ce2bafcab4b35a47bb,silver,, 8go, téléphone portable evertek v5 ,225000.0,1go,tunisiaNet,1go  8go silver
+589,56a4963253ec88aaee7edca56449092be4afb35e,rouge,, 8go, téléphone portable evertek v5 plus ,235000.0,1go,tunisiaNet,1go  8go rouge
+590,c9ef5357df5fd99ac356c1dcab42067181764869,noir,, 16go, téléphone portable condor griffe t5 ,239000.0,1go,tunisiaNet,1go  16go noir
+591,3cc951a6460204a990a63627112864d0276af214,gris,, 16go, téléphone portable condor griffe t5 ,239000.0,1go,tunisiaNet,1go  16go gris
+592,4bbe465c373cbf2beb74de5342caba8fefec291d,blanc,, 16go, téléphone portable condor griffe t5 ,239000.0,1go,tunisiaNet,1go  16go blanc
+593,e23d8a29b47026d407bf2e1a2f7e7b5d699c92a8,noir,,8go, téléphone portable evertek v8 ,247000.0,1go,tunisiaNet,1go 8go noir
+594,8d3369da8c4381cd48ef47d420555e043900ed7d,noir,, 16goextensiblejusqu'à32go, téléphone portable evertek p1 ,289000.0,1go,tunisiaNet,1go  16goextensiblejusqu'à32go noir
+595,3fe4146b4a8308d65181cdf312cbc2af2abdd4c9,noir,, 16goextensiblejusqu'à32go, téléphone portable evertek p1 ,289000.0,1go,tunisiaNet,1go  16goextensiblejusqu'à32go noir
+596,296880df0257adeecf7f7e7b3c18a030c3e9f585,noir,,8go, téléphone portable evertek v9+ ,310000.0,1go,tunisiaNet,1go 8go noir
+597,5f54cf22b070e76f9201e16d79715f0cdd01436d,gold,,8go, téléphone portable evertek v9+ ,310000.0,1go,tunisiaNet,1go 8go gold
+598,64499b51c7a2ddb4ac18df19e8ccf1c68ca742df,gold,,16goupto128goviamicrosd, téléphone portable infinix smart 2 hd ,319000.0,1go,tunisiaNet,1go 16goupto128goviamicrosd gold
+599,e0cdf0c4c619c72a0de09b926304a20e6cf9bbfa,noir,,8go, téléphone portable nokia 1 plus ,319000.0,1go,tunisiaNet,1go 8go noir
+600,482782170afebabd8ed6bb9c874d825d56761d0c,bleu,,8go, téléphone portable nokia 1 plus ,319000.0,1go,tunisiaNet,1go 8go bleu
+601,6dd9436ac3bbba5db13304c53658c78190bfa794,rouge,,8go, téléphone portable nokia 1 plus ,319000.0,1go,tunisiaNet,1go 8go rouge
+602,427f445c83d275344523a1bd1b8d5e6f6286cfe4,rouge,,8go, téléphone portable logicom le must ,324000.0,1go,tunisiaNet,1go 8go rouge
+603,ecb458be629c8f4b924f30913ac1f5f6509d40ab,rouge,,8go, téléphone portable logicom le must ,324000.0,1go,tunisiaNet,1go 8go rouge
+604,7367038540a2a854fe00db6892a3f5db1b034910,rouge,,16oextensiblejusqu'à256goviamicrosd, téléphone portable samsung galaxy a2 core ,349000.0,1go,tunisiaNet,1go 16oextensiblejusqu'à256goviamicrosd rouge
+605,206c67f8cb904a041f98757e996e0c24c3b22f1f,rouge,,16oextensiblejusqu'à256goviamicrosd, téléphone portable samsung galaxy a2 core ,349000.0,1go,tunisiaNet,1go 16oextensiblejusqu'à256goviamicrosd rouge
+606,e0b34d3809469776aac164f8a062d0d6d69b8be4,rouge,,16oextensiblejusqu'à256goviamicrosd, téléphone portable samsung galaxy a2 core ,349000.0,1go,tunisiaNet,1go 16oextensiblejusqu'à256goviamicrosd rouge
+607,d67d40fd853af00918f84f3e64225056b797f7cd,rouge,,8goextensiblejusqu'à256goviamicrosd, téléphone portable samsung galaxy j2 core ,349000.0,1go,tunisiaNet,1go 8goextensiblejusqu'à256goviamicrosd rouge
+608,56d947be12864249fc98b8681f44fbf941bf2f4b,rouge,,8goextensiblejusqu'à256goviamicrosd, téléphone portable samsung galaxy j2 core ,349000.0,1go,tunisiaNet,1go 8goextensiblejusqu'à256goviamicrosd rouge
+609,a128c90939d3c875e71f3cd426488bec05e682a9,rouge,,8goextensiblejusqu'à256goviamicrosd, téléphone portable samsung galaxy j2 core ,349000.0,1go,tunisiaNet,1go 8goextensiblejusqu'à256goviamicrosd rouge
+610,1087d151297714a38eb84369b71fb7b312c6f78d,silver,,8goupto128go, téléphone portable samsung galaxy j2 core ,349000.0,1go,tunisiaNet,1go 8goupto128go silver
+611,6a8563be402512c41a8aa251e1f766803c8fdbfd,bleu&silver,,8goupto128go, téléphone portable nokia 2.1 bleu,349000.0,1go,tunisiaNet,1go 8goupto128go bleu&silver
+612,da5d5dec0b8927bfe5dd7ec9c730693e3842c641,noir,,16goupto400go, téléphone portable nokia 2.1 bleu,379000.0,2go,tunisiaNet,2go 16goupto400go noir
+613,2ed8f512f113f581fe00559dbe07b311dfbb49dc,noir,,32go, téléphone portable tecno pop 2s pro ,379000.0,2go,tunisiaNet,2go 32go noir
+614,e8d15524eff8552d9cd69e070a30d8dbf1b91328,noir,,32go, téléphone portable tecno pop 2s pro ,379000.0,2go,tunisiaNet,2go 32go noir
+615,6c3c19d2c344d27612e9b859672f37e55159ccc1,noir,,32go, téléphone portable huawei y5 2019 ,399000.0,2go,tunisiaNet,2go 32go noir
+616,ab2b5005361eaaadaa1d6663b7d2fd12981ff05d,noir,,32go, téléphone portable huawei y5 2019 ,399000.0,2go,tunisiaNet,2go 32go noir
+617,445f9bc29d76895cc5b32976ef528d62e6a9291d,noir,,32go, téléphone portable huawei y5 2019 ,399000.0,2go,tunisiaNet,2go 32go noir
+618,4ee258bcf827b62d5a18f25acdfe6ca7cc9daa99,noir,,32go, téléphone portable leagoo m9 pro ,399000.0,2go,tunisiaNet,2go 32go noir
+619,b6eff712ffd1a006d9db746e7515e8ddbc4a4dab,noir,,32go, téléphone portable leagoo m9 pro ,399000.0,2go,tunisiaNet,2go 32go noir
+620,c6a71805a6298bec6e57110fc3c31302f754af55,noir,,16goextensiblejusqu'à32goviamicrosd, téléphone portable condor plume p8 lite  ,459000.0,3go,tunisiaNet,3go 16goextensiblejusqu'à32goviamicrosd noir
+621,d73b28286b8e410b0fe3d99a8d6d2742d17f8756,noir,,16goextensibleviamicrosd, téléphone portable condor plume h1 ,469000.0,3go,tunisiaNet,3go 16goextensibleviamicrosd noir
+622,461aa7d5c708c8e7f833378c689072cc186fcf61,noir,,16goextensibleviamicrosd, téléphone portable condor plume h1 ,469000.0,3go,tunisiaNet,3go 16goextensibleviamicrosd noir
+623,030e52113a61b719d2b2724b65596b224acf6d7c,noir,,64goextensiblejusqu'à128, téléphone portable condor a100 lite ,479000.0,3go,tunisiaNet,3go 64goextensiblejusqu'à128 noir
+624,5e668b8a4a53acee94ec03c0bcea71c696dc13d9,noir,,16goupto128go, téléphone portable nokia 5 ,489000.0,2go,tunisiaNet,2go 16goupto128go noir
+625,9d9dbeefe9b74e6a5f982024b28edcd31636d8f9,noir,,16goextensibleviamicrosd, téléphone portable condor plume p8 pro ,489000.0,3go,tunisiaNet,3go 16goextensibleviamicrosd noir
+626,d065f9f5fba99037298b39df620f5d02573f8f80,noir,,16goextensibleviamicrosd, téléphone portable condor plume p8 pro ,489000.0,3go,tunisiaNet,3go 16goextensibleviamicrosd noir
+627,14a9ba679a4764dc76e705c551e7bb9a5a3c7fa7,noir,,32go, téléphone portable samsung galaxy a10 ,499000.0,2go,tunisiaNet,2go 32go noir
+628,13c0ad87383932b115cb6ca2210ca027c2844a09,noir,,32go, téléphone portable samsung galaxy a10 ,499000.0,2go,tunisiaNet,2go 32go noir
+629,146fcefea52f5dbbd088afa43232406c303c9a48,noir,,32go, téléphone portable samsung galaxy a10 ,499000.0,2go,tunisiaNet,2go 32go noir
+630,1f6c5831a503f19617a9611cbe9d22523cb4b6a0,noir,,32go, téléphone portable huawei y6 prime 2019 ,499000.0,2go,tunisiaNet,2go 32go noir
+631,63bcd1ac10f4f9bcf397d6252c063ea47e0616f6,noir,,16goextensiblejusqu'à32goviamicrosd, téléphone portable condor allure a9 ,499000.0,1go,tunisiaNet,1go 16goextensiblejusqu'à32goviamicrosd noir
+632,9382020d598302b413d8f612b4349ec63c5dc5b5,noir,,32go, téléphone portable huawei y6 prime 2019 ,499000.0,1go,tunisiaNet,1go 32go noir
+633,e13d0a97e65ea9e7ba42737ccb6d122c9b1c94c1,noir,,32go, téléphone portable huawei y6 prime 2019 ,499000.0,1go,tunisiaNet,1go 32go noir
+634,5affbd80ce6e1412891331fdac7a26e77e220f24,noir,,16go, téléphone portable tecno camon 11 ,539000.0,2go,tunisiaNet,2go 16go noir
+635,0a913a06a912e24160c66025b120822f232bdd71,noir,,16go, téléphone portable tecno camon 11 ,539000.0,2go,tunisiaNet,2go 16go noir
+636,de7257937e211420bf8a377bde31c7c43f18264f,noir,,64goupto128go, téléphone portable nokia 3.2 ,569000.0,3go,tunisiaNet,3go 64goupto128go noir
+637,70b55ac50a60cfc86096d740e593ffd0ea703331,silver ,,64goupto128go, téléphone portable nokia 3.2 ,569000.0,3go,tunisiaNet,3go 64goupto128go silver 
+638,6826e82e1b0b54f018fccacf330020d4c11562b4,rose,,32goupto400go, téléphone portable nokia 4.2 ,579000.0,3go,tunisiaNet,3go 32goupto400go rose
+639,27fc4d98812044cca556c2fc0133d8626cfb42f1,rose,,32goupto512go, téléphone portable huawei y7 prime 2019 ,599000.0,3go,tunisiaNet,3go 32goupto512go rose
+640,c3e67fb494488ac9a341ceee1598fff2365a55eb,rose,,32goupto512go, téléphone portable huawei y7 prime 2019 ,599000.0,3go,tunisiaNet,3go 32goupto512go rose
+641,f7a7bce5972e2f65084fb6c328aa5940c3d144ea,rose,,32goupto512go, téléphone portable huawei y7 prime 2019 ,599000.0,3go,tunisiaNet,3go 32goupto512go rose
+642,8d237ff7dbb5e345a5667bb7fdea57a0a3dd015a,baltique,,32goupto400go, téléphone portable nokia 3.1 plus ,649000.0,3go,tunisiaNet,3go 32goupto400go baltique
+643,c9cfb1f6d0d400d705d3088bfffa9769f038c41f,cuivre,,32go, téléphone portable nokia 6 ,649000.0,3 go,tunisiaNet,3 go 32go cuivre
+644,31a713924ded3e08f9774ca69fd05dad4ca1e76a,cuivre,,32go, téléphone portable nokia 6 ,649000.0,3 go,tunisiaNet,3 go 32go cuivre
+645,a6a6724c5c5527ecc337e35637157ddccacfbd81,cuivre,,32go, téléphone portable samsung galaxy a20 ,689000.0,3go,tunisiaNet,3go 32go cuivre
+646,cdbe662b781a9b39a3840e316dd8b71ab630f9aa,noir,,32go, téléphone portable nokia 6.1 ,849000.0,3 go,tunisiaNet,3 go 32go noir
+647,4e92171a4979a13513a0a61e39115d930cd1881b,noir,,128go, téléphone portable huawei y9 prime 2019 ,849000.0,3 go,tunisiaNet,3 go 128go noir
+648,2ed64b6a2d4c021901163eeb435c77c3e26c4db7,noir,,128go, téléphone portable huawei y9 prime 2019 ,849000.0,3 go,tunisiaNet,3 go 128go noir
+649,1293aac494f4cdf0f7bfba3024adc80262e11091,noir,,128go, téléphone portable huawei y9 prime 2019 ,849000.0,3 go,tunisiaNet,3 go 128go noir
+650,874073110ff081d0cf865410bcae85fa2d40157b,noir,,64go, téléphone portable samsung galaxy a30 ,865000.0,4go,tunisiaNet,4go 64go noir
+651,88e77c4c1b15b2d1ddc6435b14baed3c5590a3fd,noir,,64go, téléphone portable samsung galaxy a30 ,865000.0,4go,tunisiaNet,4go 64go noir
+652,a14394df920f73536325699b1c64d029375f18cc,noir,,64go, téléphone portable samsung galaxy a30 ,865000.0,4go,tunisiaNet,4go 64go noir
+653,fbc2e7d29e3bdec280db124d8ce13999ce1994f3,noir,,64gojusqu'à256, téléphone portable oppo f11 ,899000.0,6go,tunisiaNet,6go 64gojusqu'à256 noir
+654,437be1ec86ff466c83d39aa60d188a7b9ed8325c,noir,,64gojusqu'à256, téléphone portable oppo f11 ,899000.0,6go,tunisiaNet,6go 64gojusqu'à256 noir
+655,7d04f56a88204d39234de024553cbb59545b82d9,noir,,64gojusqu'à256, téléphone portable oppo f11 ,899000.0,6go,tunisiaNet,6go 64gojusqu'à256 noir
+656,09c572b0a0a29a45e636504184126fb514d8135f,noir,,128goupto256go, téléphone portable huawei nova 3i ,945000.0,4go,tunisiaNet,4go 128goupto256go noir
+657,1afafdf32392d6d1f101f99e7a928dc0d01b8fe9,noir,,128go, téléphone portable huawei p30 lite ,999000.0,4go,tunisiaNet,4go 128go noir
+658,dc564fe216a4d9f4907bfa12f6c37259b6292845,noir,,128go, téléphone portable huawei p30 lite ,999000.0,4go,tunisiaNet,4go 128go noir
+659,673210cfa15f2adfbd1adc154f9f4ea6bae45a46,noir,,128go, téléphone portable huawei p30 lite ,999000.0,4go,tunisiaNet,4go 128go noir
+660,fd425c27ce1a812cb4f13700b4af792db0d1011d,noir,,128gojusqu'à256, téléphone portable oppo f11 pro ,1149000.0,6go,tunisiaNet,6go 128gojusqu'à256 noir
+661,9304e3021693441982ea78627f07fb48e46df9ab,noir,,128go, téléphone portable samsung galaxy a50 ,1169000.0,4go,tunisiaNet,4go 128go noir
+662,d241ed160233cff7cf57e86cb60e87af4eddc935,noir,,128go, téléphone portable samsung galaxy a50 ,1169000.0,4go,tunisiaNet,4go 128go noir
+663,482b4824ad916644318bc9765d5357c1d0408b28,noir,,128go, téléphone portable samsung galaxy a50 ,1199000.0,4go,tunisiaNet,4go 128go noir
+664,c0758c38df83d4f9ea1ab3f6c5f6dd6a611202fe,noir,,128go, téléphone portable samsung galaxy a9 ,1999000.0,4go,tunisiaNet,4go 128go noir
+665,b65a81ab6c2fee9d432a77608e878b6cf4b75535,noir,,128go, téléphone portable samsung galaxy a9 ,1999000.0,4go,tunisiaNet,4go 128go noir
+666,3f27c27aa8709e95b25916bbdb8df107d088258a,noir,,128go, téléphone portable samsung galaxy a80 ,2599000.0,4go,tunisiaNet,4go 128go noir
+667,806788169f0a89cdc9f908e9cb032f745f8ff243,noir,,128go, téléphone portable samsung galaxy a80 ,2599000.0,4go,tunisiaNet,4go 128go noir
+668,071dff85a4e7cd2eb9edf3691ef1586838f43e3b,noir,,128go, téléphone portable samsung galaxy a80 ,2599000.0,4go,tunisiaNet,4go 128go noir
+669,b2226d9243f1c111583f08db22e0bff6f1a48e99,noir,,128go, téléphone portable samsung galaxy s10e ,2899000.0,6go,tunisiaNet,6go 128go noir
+670,a9afe7e63ec732dc2be1582b02b147326f0a1a7b,noir,,128go, téléphone portable samsung galaxy s10e ,2899000.0,6go,tunisiaNet,6go 128go noir
+671,ad2d062d8123f8a86edf09aa18c96c0e8d361156,gold,,destockage64go, téléphone portable apple iphone 8 ,3149000.0,6go,tunisiaNet,6go destockage64go gold
+672,0b9ff4920d58c4a7b09d0e66ca11ae70c6a0fbca,silver,,destockage64go, téléphone portable apple iphone 8 ,3149000.0,6go,tunisiaNet,6go destockage64go silver
+673,baa4127a6fd02c0e1f595854b4bf4a5caf2bd570,silver,,128go, téléphone portable samsung galaxy s10 ,3499000.0,8go,tunisiaNet,8go 128go silver
+674,a74bb56aa8262fc73b8bd9b5cb5669a1cac1972a,silver,,128go, téléphone portable samsung galaxy s10 ,3499000.0,8go,tunisiaNet,8go 128go silver
+675,58d0323c0f920bd77f7e37e81e35cb9c658ab414,silver,,128go, téléphone portable samsung galaxy s10 ,3499000.0,8go,tunisiaNet,8go 128go silver
+676,8643c2cdf0052bd902dff069631789c979bf0ffc,silver,,128go, téléphone portable samsung galaxy s10+ ,3899000.0,8go,tunisiaNet,8go 128go silver
+677,2a1defbf380f98836c013a058f2e78ba714a2996,silver,,128go, téléphone portable samsung galaxy s10+ ,3899000.0,8go,tunisiaNet,8go 128go silver
+678,14d80a6a89e35c17ef2de7a596e8a1bd9ab10020,silver,,128go, téléphone portable samsung galaxy s10+ ,3899000.0,8go,tunisiaNet,8go 128go silver
+679,84103add6bacc247ebf338fd8340036fd1f879a3,rouge,,64go, téléphone portable apple iphone xr ,3999000.0,3go,tunisiaNet,3go 64go rouge
+680,13c5641c6d1e2bf4f7285eed3da57b4c496a5469,rouge,,256go, téléphone portable huawei p30 pro ,3999000.0,3go,tunisiaNet,3go 256go rouge
+681,c3f121ee290fdf5fb8f166e0e21869f7ff2d7b94,rouge,,256go, téléphone portable huawei p30 pro ,3999000.0,3go,tunisiaNet,3go 256go rouge
+682,ffb4d763b6390fc747da513dd4d9993ccbc09a99,silver,,64go, téléphone portable apple iphone x ,4100000.0,3go,tunisiaNet,3go 64go silver
+683,7d919f014e162d317182a013aa5b3eecbf043300,silver,,64go, téléphone portable apple iphone x ,4100000.0,3go,tunisiaNet,3go 64go silver
+684,72909c504491a51eeaa3f2cf5a3722da719b69c7,silver,,8goextensiblejusqu'à32go, tablette ama a703 ,179000.0,1go,tunisiaNet,1go 8goextensiblejusqu'à32go silver
+685,a52e5e844e0951f79cad77fd7795e28f7795a428,silver,,8goextensibleviamicrosdupto32go, tablette evertek everpad e7224hg ,199000.0,1,tunisiaNet,1 8goextensibleviamicrosdupto32go silver
+686,4d72de74dff62c57b6498dc0b96c7bce2e806337,silver,,8goextensibleviamicrosdupto32go, tablette evertek everpad e7224hg ,199000.0,1,tunisiaNet,1 8goextensibleviamicrosdupto32go silver
+687,4a7150e78ad9a16b69ad35aea0ab9116345f0daf,silver,,16 gojusqu'à32go, tablette versus 904q ,299000.0,1go,tunisiaNet,1go 16 gojusqu'à32go silver
+688,433069b3d9d564af7b971d70c7e3fb9de980e9b0,silver,,8goextensiblejusqu’à128go, tablette samsung galaxy tab a 2016 sm t285 ,459000.0,1.5go,tunisiaNet,1.5go 8goextensiblejusqu’à128go silver
+689,5cd3201f4a64522a742554ee666d300efc14bffd,silver,,16go, tablette lenovo tab e10 tb x104x ,609000.0,2go,tunisiaNet,2go 16go silver
+690,55c9b9be3b799ee411f835693cceda3cfffa35ff,silver,,16goextensiblejusqu'à32go, tablette huawei mediapad t3 10\  ,619000.0,2 go,tunisiaNet,2 go 16goextensiblejusqu'à32go silver
+691,cc5ba63c80f0a7c9d3cfc8721c017d3f2bb53ef4,silver,,16goextensiblejusqu'à32go, tablette lenovo yoga tab 3 10\  ,819000.0,2 go,tunisiaNet,2 go 16goextensiblejusqu'à32go silver
+692,76981e627f97cbaa749b0691353c221ad64d5091,silver,,2go, pc portable ,949000.0,2 go,tunisiaNet,2 go 2go silver
+693,f893b42f7f857df65ce8a918280df68972114760,silver,,2go, pc portable ,949000.0,2 go,tunisiaNet,2 go 2go silver
+694,22e5d4d1febebf67da1d3f7371bb3135ed1259cf,silver,,2go, pc portable ,949000.0,2 go,tunisiaNet,2 go 2go silver
+695,b786f9ae71ca1f7a2152d4ccc528dc80d7fc3da9,silver,,2go, ipad apple 32 go wifi + cellular ,1979000.0,2 go,tunisiaNet,2 go 2go silver
